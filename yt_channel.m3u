@@ -174,12 +174,18 @@ http://tv.cloudcdn.me/live.ts?channelId=113&uid=13603&deviceMac=00:1A:79:64:B4:A
 https://cdn3.pishow.tv/live/281/master.m3u8
 
 
+
+
+
+#EXTINF:-1 group-title="INDIAN CHANNELS",COLORS HD
+http://tv.cloudcdn.me/live.ts?channelId=36129&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Hindi",Colors HD 2
+http://tv.cloudcdn.me/live.ts?channelId=160&uid=2496&deviceMac=00:1A:79:A8:9C:32
+
 #EXTINF:-1 group-title="INDIAN CHANNELS",STAR PLUS HD
 http://217.20.112.199/starplushd/index.m3u8
 #EXTINF:-1 group-title="INDIAN CHANNELS",SONY TV HD
 http://tv.cloudcdn.me/live.ts?channelId=193&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1 group-title="INDIAN CHANNELS",COLORS HD
-http://tv.cloudcdn.me/live.ts?channelId=36129&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="INDIAN CHANNELS",COLORS RISHTEY
 http://tv.cloudcdn.me/live.ts?channelId=158&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/71YYWp6/Zee-TV-HD.png",Zee TV HD (Zee)
@@ -647,6 +653,16 @@ http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 http://93.184.10.248/MBCBollywood/index.m3u8
 #EXTINF:-1 group-title="Movies Hindi" tvg-logo="",Pitaara HD
 http://212.102.34.8:9080/Pitaara/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Movies Hindi",Colors Cineplex Bollywood
+http://172.105.123.238:18002/play/a011
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Movies Hindi",Star Ustsab Movies
+http://172.105.123.238:18002/play/a01n
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png" group-title="Hindi Movies",Rishtey Cinaplax
+http://172.105.123.238:18002/play/a015
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies 
+https://cdn2.pishow.tv/live/156/master.m3u8
+
 
 
 
