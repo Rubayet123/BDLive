@@ -583,6 +583,15 @@ https://la.drmlive.au/tp/zee.php?id=cafehd
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://i.ibb.co/vv7rV1v/image-Content-11915-j9l5clzs-m1.webp",Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",& Pictures HD
@@ -613,10 +622,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-
-
-
-
+#EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg",Zee Bollywood
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1 group-title="Movies Hindi" tvg-logo="",MBC Bollywood
+http://93.184.10.248/MBCBollywood/index.m3u8
+#EXTINF:-1 group-title="Movies Hindi" tvg-logo="",Pitaara HD
+http://212.102.34.8:9080/Pitaara/index.m3u8
 
 
 
