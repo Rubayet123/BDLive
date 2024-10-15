@@ -448,12 +448,13 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment Channels",Travel XP English SE
 https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png", Travel Channel (BD)
+#https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
+#https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel (BD)
-https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel (BD)
-https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Infotainment Channels", Love Nature 4K*
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature 4K
