@@ -657,18 +657,28 @@ http://212.102.34.8:9080/Pitaara/index.m3u8
 http://172.105.123.238:18002/play/a011
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Movies Hindi",Star Ustsab Movies
 http://172.105.123.238:18002/play/a01n
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png" group-title="Hindi Movies",Rishtey Cinaplax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png" group-title="Movies Hindi",Rishtey Cinaplax
 http://172.105.123.238:18002/play/a015
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Hindi Movies",B4U Movies 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Movies Hindi",B4U Movies 
 https://cdn2.pishow.tv/live/156/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies Hindi",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Movies Hindi",Goldmines
+http://172.105.123.238:18002/play/a00z
+#EXTINF:-1 tvg-logo="" group-title="Movies Hindi",Goldmines Bollywood 
+http://172.105.123.238:18002/play/a012
+#EXTINF:-1 tvg-logo="" group-title="Movies Hindi",Goldmines Movies
+http://172.105.123.238:18002/play/a01j
+#EXTINF:-1 tvg-logo="" group-title="Movies Hindi", Goldminnes Thtills
+http://172.105.123.238:18002/play/a01h
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Movies Hindi",Manoranjan Prime
+http://172.105.123.238:18002/play/a00j
+#EXTINF:-1 tvg-logo="" group-title="Movies Hindi",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 
 
 
-
-#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.ibb.co/vZXSqf0/20240816-214223.png",BHEJPURI CINEMA
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="HINDI MOVIES",SONY MAX HD
 http://tv.cloudcdn.me/live.ts?channelId=184&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.ibb.co/h7T6MCW/20240803-110652.png",COLORS CINEPLEX HD
