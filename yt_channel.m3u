@@ -281,7 +281,8 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 https://entezeetv.fun/bdcast/hls/cdn_jio.m3u8?id=59f2a70d74d8576de5db6273cb90837faa1d6d30c01f895647567f969241aeb5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b1B73Tp.png" group-title="Music",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Music",7XM
+https://stream.e2is.in/hls/7xMusic.m3u8
 
 
 
@@ -510,7 +511,16 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News International" tvg-logo="https://yt3.googleusercontent.com/y_esGAQOhX4rTpWvrALErAJlFbm_2TIVrvcVfcZny7TuA8dJZgOQcC6KRfd_J5hljFe-foYXj9U=s160-c-k-c0x00ffffff-no-rj" group-title="News",BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-
+#EXTINF:-1 group-title="News International" tvg-logo="",France24 News
+http://iptv.prosto.tv:7000/ch205/video.m3u8
+#EXTINF:-1 group-title="News International" tvg-logo="",CBS NEWS LA
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:-1 group-title="News International" tvg-logo="",YAHOO NEWS
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News International" tvg-logo="",YAHOO FIN NEWS
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="News International" tvg-logo="",RTNEWS GLOBAL
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
 
 
