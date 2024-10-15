@@ -615,6 +615,16 @@ http://103.84.57.155:8000/play/a034/index.m3u8
 http://103.84.57.155:8000/play/a030/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="Movies",Bec Action
 https://bec-action-1-us.tcl.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",AMC Triller
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",MBC1
+https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Hits
+https://cdn09jtedge.indihometv.com/joss/133/hits/index.m3u8?c
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Hits Movie
+https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/index.m3u8?c
+
+
 
 
 
@@ -690,6 +700,8 @@ http://172.105.123.238:18002/play/a00j
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+
 
 
 
