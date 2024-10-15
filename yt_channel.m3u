@@ -485,11 +485,12 @@ http://103.84.57.155:8000/play/a02c/index.m3u8
 http://103.84.57.155:8000/play/a0ce/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",HG TV
 https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discover Pakistan TV
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Hits Now
+https://cdn09jtedge.indihometv.com/joss/134/hitsnow/chunklist_w627286080_b1044100_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
 
 
@@ -612,8 +613,8 @@ http://103.110.110.11:8081/live/hbo/playlist.m3u8
 http://103.84.57.155:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="Movies",MNX HD
 http://103.84.57.155:8000/play/a030/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="Movies",Bec Action
+https://bec-action-1-us.tcl.wurl.tv/3000.m3u8
 
 
 
