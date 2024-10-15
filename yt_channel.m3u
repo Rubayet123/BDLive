@@ -350,7 +350,8 @@ https://atomic.streamnet.ro/atomictv.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="KIDS",BRAT TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",BBC Creebs
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/playlist.m3u8?md5=E9h7LjJQrfZM6FDv4TuZkA&expires=1720645051&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png" group-title="KIDS",Cartoon Network
@@ -584,13 +585,21 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Rotana Cinema KSA
-https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Movies",Sony Pix
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="Movies",Zee Cafe
 https://la.drmlive.au/tp/zee.php?id=cafehd
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="Foreign" tvg-logo="",Rotana Cinema KSA
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 group-title="Foreign" tvg-logo="",Korean TV
+https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
 
 
 
