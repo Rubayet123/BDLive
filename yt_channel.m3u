@@ -393,7 +393,8 @@ http://tv.cloudcdn.me/live.ts?channelId=250&uid=13603&deviceMac=00:1A:79:64:B4:A
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
-
+#EXTINF:-1 group-title="Kids" tvg-logo="",Kids TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 
 
@@ -553,7 +554,18 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News International",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="News International",NHK World Premium
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+#EXTINF:-1 group-title="News International" tvg-logo="",WionNews
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="News International" tvg-logo="",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="News International" tvg-logo="",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="News International" tvg-logo="",Africa News 
+https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="News International" tvg-logo="",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 
 
@@ -648,7 +660,8 @@ https://cdn09jtedge.indihometv.com/joss/133/hits/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/index.m3u8?c
 #EXTINF:-1 tvg-logo="" group-title="Movies",KMovies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Movies",Pop
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 
 
 
