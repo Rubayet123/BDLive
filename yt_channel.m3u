@@ -547,7 +547,8 @@ https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c2492
 
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="Entertainment 2",Fashion TV (1080p)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment 2",DMAX
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment 2",Baywatch
@@ -603,6 +604,8 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",Rakuten Comedy Movies
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Rakuten Shows UK (720p)
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Movies",Sony Pix
