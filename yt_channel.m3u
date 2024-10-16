@@ -424,12 +424,19 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 
 
+
 #EXTINF:-1 group-title="Islamic Channel" tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 #EXTINF:- group-title="Islamic Channel" tvg-logo="",Al Quran Al Kareem TV
 https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #EXTINF:-1 group-title="Islamic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png",PEACE TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="DeenTV.uk" tvg-logo="https://i.imgur.com/Zp62Nbd.png" group-title="Islamic Channel",Deen TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-id="IonTV.uk" tvg-logo="https://i.imgur.com/E8VwnK7.png" group-title="Islamic Channel",Ion TV
+https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:-1 tvg-id="EmanChannel.uk" tvg-logo="https://i.imgur.com/ugn0DWe.png" group-title="Islamic Channel",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 
 
 
@@ -543,6 +550,9 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="News International",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News International",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+
 
 
 
@@ -606,6 +616,8 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Rakuten Shows UK (720p)
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Movies",Rakuten TV Family Movies
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Movies",Sony Pix
