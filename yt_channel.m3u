@@ -520,7 +520,10 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="News International",The Guardian
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="News International",CGTN En
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="News International",CGTN Documentary
+https://0472.org/hls/cgtnd.m3u8
 
 
 
