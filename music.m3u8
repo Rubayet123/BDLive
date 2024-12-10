@@ -1,39 +1,54 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png" group-title="Music",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png",9XM-2
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/be5e8825-d7d6-4423-a172-50b075065ee6/2.m3u8
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/15d058ad837ee3e6d5cfe2651b11aa49.png" group-title="Music",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b3389339bd16854406ac7233c5c5501a.png",Mastii Music
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+
 #EXTINF:-1 group-title="Music",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Music",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Music",YRF
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Music",Shemaroo
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qubgOi5.png" group-title="Music",9XM Jalwa
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music",MTV Beats
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Music",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ai9gpjy.png" group-title="Music",Dhoom
 https://entezeetv.fun/bdcast/hls/cdn_jio.m3u8?id=59f2a70d74d8576de5db6273cb90837faa1d6d30c01f895647567f969241aeb5
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b1B73Tp.png" group-title="Music",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Music",7XM
 https://stream.e2is.in/hls/7xMusic.m3u8
+
+
 
 
 
