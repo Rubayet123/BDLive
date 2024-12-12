@@ -472,8 +472,6 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Rakuten British Films 
 https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Rakuten Viki 
-https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO 2
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
@@ -583,6 +581,9 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 
 <=========== KOREA ===========>
+
+#EXTINF:-1 tvg-logo="" group-title="KOREA",Rakuten Viki 
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA" tvg-logo="",Korean TV
 https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
