@@ -1,55 +1,120 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Colors tv
+===Movies_Hindi===
+
+#EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://i.ibb.co/xHfvgtk/20240816-213001.png",THE MOVIE CLUB
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",SHEEMAROO BOLLYWOOD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://i.ibb.co/YNGyQJR/Picsart-23-06-25-22-19-02-657.png",BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png",BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+
+#EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Classic.jpeg",Zee Bollywood
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+
+#EXTINF:-1 group-title="Movies Hindi" tvg-logo="",MBC Bollywood
+http://93.184.10.248/MBCBollywood/index.m3u8
+
+#EXTINF:-1 group-title="Movies Hindi" tvg-logo="",Pitaara HD
+http://212.102.34.8:9080/Pitaara/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Movies Hindi",Colors Cineplex Bollywood
+http://172.105.123.238:18002/play/a011
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Movies Hindi",Star Ustsab Movies
+http://172.105.123.238:18002/play/a01n
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPKt3db/20240829-150710.png" group-title="Movies Hindi",Rishtey Cinaplax
+http://172.105.123.238:18002/play/a015
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Movies Hindi",Goldmines
+http://172.105.123.238:18002/play/a00z
+
+#EXTINF:-1 tvg-logo="" group-title="Movies Hindi",Goldmines Bollywood 
+http://172.105.123.238:18002/play/a012
+
+#EXTINF:-1 tvg-logo="" group-title="Movies Hindi",Goldmines Movies
+http://172.105.123.238:18002/play/a01j
+
+#EXTINF:-1 tvg-logo="" group-title="Movies Hindi", Goldminnes Thtills
+http://172.105.123.238:18002/play/a01h
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" group-title="Movies Hindi",Manoranjan Prime
+http://172.105.123.238:18002/play/a00j
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.ibb.co/jJ4BZ85/20240816-214136.png",BOLLWDOOD PRIMR
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
+
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.ibb.co/tYcNbLy/20240827-090809.png",BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+
+
+
+
+
+===INDIAN_CHANNELS===
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Indian_channel",Colors HD
+http://tv.cloudcdn.me/live.ts?channelId=160&uid=2496&deviceMac=00:1A:79:A8:9C:32
+
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Colors tv
 http://109.61.81.147:2080/cdn2/4845/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Colors tv HD
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Colors tv HD
 http://109.61.81.147:2080/cdn2/4876/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Colors tv2
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Colors tv2
 http://109.61.81.147:2080/cdn2/527/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Sony max 2
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Sony max 2
 http://109.61.81.147:2080/cdn2/528/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Utsav gold
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Utsav gold
 http://109.61.81.147:2080/cdn2/529/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Utsav gold2
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Utsav gold2
 http://109.61.81.147:2080/cdn2/4861/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Zee cinema
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Zee cinema
 http://109.61.81.147:2080/cdn2/4865/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Pitaraa
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Pitaraa
 http://109.61.81.147:2080/cdn2/4860/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Star gold
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Star gold
 http://109.61.81.147:2080/cdn2/4857/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Sony sab
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Sony sab
 http://109.61.81.147:2080/cdn2/4869/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",B4u movies
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",B4u movies
 http://109.61.81.147:2080/cdn2/4828/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Mtv
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Mtv
 http://109.61.81.147:2080/cdn2/4837/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Star Bharat HD
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Star Bharat HD
 http://109.61.81.147:2080/cdn2/4846/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Colors Gujarati
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Colors Gujarati
 http://109.61.81.147:2080/cdn2/4890/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Zing
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Zing
 http://109.61.81.147:2080/cdn2/516/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Zee cinema HD
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Zee cinema HD
 http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Zoom
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",Zoom
 http://109.61.81.147:2080/cdn2/532/video.m3u8?token=4444
 
-#EXTINF:-1 group-title="Hindi-New" tvg-logo="",MAtv Punjabi
+#EXTINF:-1 group-title="Indian_channel" tvg-logo="",MAtv Punjabi
 http://109.61.81.147:2080/cdn2/542/video.m3u8?token=4444
