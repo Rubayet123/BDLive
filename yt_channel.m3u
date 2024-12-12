@@ -247,13 +247,11 @@ http://103.84.57.155:8000/play/a02c/index.m3u8
 http://103.84.57.155:8000/play/a0ce/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",HG TV
+#https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 https://od.lk/s/ODRfNzIxOTE5NjZf/HGTV.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discover Pakistan TV
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discovery Asia
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",History
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
@@ -263,6 +261,23 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xi
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Food 
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png" group-title="Infotainment Channels", Discovery Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DKFgvY2/discoturbo.png" group-title="Infotainment Channels", Discovery Turbo
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Infotainment Channels", Global Trekker
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DfxR99/dmax.png" group-title="Infotainment Channels", DMAX
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+
 
 
 ===News_International===
@@ -487,16 +502,46 @@ http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 
 
 
-===Foreign===
+<=========== Arabic ===========>
 
 #EXTINF:-1 group-title="Foreign" tvg-logo="",Rotana Cinema (KSA)
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
 
-#EXTINF:-1 group-title="Foreign" tvg-logo="",Korean TV
+#EXTINF:-1 group-title="https://wacth.tv"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",MYX (Philiphine)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 
+https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8
+
+
+<=========== KOREA ===========>
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="",Korean TV
 https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png" group-title="KOREA", EBS 1
+https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/640px-EBS_Logo.svg.png" group-title="KOREA", EBS 2
+https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vylHBC8.png" group-title="KOREA", KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="KOREA", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/640px-Seoul_Broadcasting_System_logo.svg.png" group-title="KOREA", SBTV
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
-
-
+<=========== MALAYSIA ===========>
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="MALAYSIA", Dunia Cinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MALAYSIA", TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="MALAYSIA", TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="MALAYSIA", Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="MALAYSIA", Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
