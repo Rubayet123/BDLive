@@ -339,6 +339,13 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects" tvg-logo="https://iili.io/JmoCDmJ.png" group-title="Infotainment Channels", Smithsonian Channel
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 
+#EXTINF:-1 tvg-id="DENSFoodChannel.id" tvg-name="DENS Food Channel" tvg-logo="https://cdn4.mbahnunungonline.net/img/GJGMupS.png?v=1.0.0.1" group-title="Infotainment Channels", DensFood Channel
+http://cdn.nng.cloudns.us/live/m3u8/id/dfc160946781414.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.id" tvg-name="HGTV" tvg-logo="https://iili.io/Jmo0xC7.png" group-title="Infotainment Channels", HGTV
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -779,7 +786,8 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
 
-
+#EXTINF:-1 tvg-id="1.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/KCM.png" group-logo="" group-title="Movies",KCM
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcmasia-sooka-dash-sooka/index.mpd
 
 
 
@@ -1107,4 +1115,68 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="MALAYSIA", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+
+
+
+<=========== HBO Group ===========>
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="HBO Group",ID: HBO
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306484
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO Group",ID: HBO FHD
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="HBO Group",ID: HBO Family
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306485
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO Group",ID: HBO Family FHD
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="HBO Group",ID: HBO Hits
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306486
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HBO Group",ID: HBO Hits FHD
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="HBO Group",ID: HBO Signature
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306483
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO Group",ID: HBO Signature FHD
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
+#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO Group",ID: Cinemax
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
+
+
+
+
+
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> Fashion
+//========================================================================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="Fashion One 4K.ru" tvg-name="Fashion One 4K.ru" tvg-logo="https://warningfm.github.io/v3/img/66p97Rk.png?v=1.0.0.1" group-title="Fashion", Fashion One
+https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/88fbfe958694c98bf6beb605ffdad069de19f337/364bfe25097b976.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="Fashion TV.fr" tvg-name="Fashion TV.fr" tvg-logo="https://warningfm.github.io/v3/img/XgrBSh3.png?v=1.0.0.1" group-title="Fashion", Fashion TV Global
+https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/9fba94c54aa06dacdd28b3910045c2ab6a5e4148/801a98b42276bac.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="GBAJ4900002DE" tvg-name="Fashion TV" tvg-logo="https://warningfm.github.io/v3/img/PNrJJmL.png?v=1.0.0.1" group-title="Fashion", Fashion TV Midnight Secrets
+https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/be595ba194bcc7c3206fbb1b60838d5e3915482d/700a192f4d09364.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-name="FashionTV Asia" tvg-logo="https://warningfm.github.io/v3/img/LgeA5wM.png?v=1.0.0.1" group-title="Fashion", FashionTV Asia HD
+https://gist.githubusercontent.com/warningfm/99465dc1aa6d18e87069f7d960a724b7/raw/bd8f1eaade6782c3ad8c6916f840f89052a2c590/700a192f4d09363.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1MiZ1x0.png?v=1.0.0.1" group-title="Fashion", Global Fashion Channel 
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWw3uHT.png?v=1.0.0.1" group-title="Fashion", Kaloopy TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+
+
+
+
+
+
+
+
+
 
