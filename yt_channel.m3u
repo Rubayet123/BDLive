@@ -620,7 +620,7 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-name="015" tvg-id="MAGNA TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501720_tvchannels_v1.jpg" group-title="Music International",MAGNA TV (Indonesia)
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TawafTV.id" tvg-name="Tawaf TV" tvg-logo="https://warningfm.github.io/v3/img/sRHJJ5c.png?v=1.0.0.1" group-title="Religion", Tawaf TV
+#EXTINF:-1 tvg-id="TawafTV.id" tvg-name="Tawaf TV" tvg-logo="https://warningfm.github.io/v3/img/sRHJJ5c.png?v=1.0.0.1" group-title="Music International", Tawaf TV
 http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 
 
