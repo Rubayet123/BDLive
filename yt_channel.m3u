@@ -478,6 +478,9 @@ http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 ===Movies===
 
+#EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Movies",rock action
+http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Movies",Star Movies
 http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 
@@ -493,33 +496,12 @@ http://103.122.74.6:8888/hls/HBO.HD.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Movies",HBO Hits
 http://103.122.74.6:8888/hls/HBO.HITS.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="Movies",HBO
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="Movies",HBO (#)
 #https://fl2.moveonjoy.com/HBO/index.m3u8
 http://212.102.60.231/HBO/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO 2
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",IFC Film Picks
-https://bit.ly/3LLOMf4
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",FX Movie
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8:FX
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Toonami aftermath
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies", Hollywood Desi
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPRGA9C.png" group-title="Movies",Hallmark Movies & More
 https://d3l10ju7ii2sha.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-301fj9dsme11n/playlist.m3u8
@@ -528,23 +510,11 @@ https://d3l10ju7ii2sha.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Rakuten Thriller 
-https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Rakuten British Films 
-https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Mytime Movie
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Movies",Mytime Movie2
 https://mytime-tcl.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"group-title="Movies",Sony Pix
-http://212.102.34.8:9080/SonyPixHD/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MNX.png"group-title="Movies",Bec Action
-#https://bec-action-1-us.tcl.wurl.tv/3000.m3u8
-https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (1080p)
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
@@ -555,14 +525,8 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="" group-title="Movies",MBC1
 https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Hits Movie
-https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/index.m3u8?c
-
 #EXTINF:-1 tvg-logo="" group-title="Movies",KMovies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Movies",Pop
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 
 #EXTINF:-1 tvg-id="Crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Movies",Crave 1 (720p)
 http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
@@ -594,17 +558,11 @@ https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Persiana1.fr" tvg-logo="https://i.imgur.com/X1Dv6st.png" group-title="Movies",Persiana One
 https://onehls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncoreActionEast.us" tvg-logo="https://i.imgur.com/wIf4X0i.png" group-title="Movies",Starz Encore Action East
-http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-
-#EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Movies",rock action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-
 #EXTINF:-1 group-title="Movies"https://wacth.tv"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",MOVIESPHERE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
        
-#EXTINF:-1 group-title="Movies"https://wacth.tv"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",MOVIESPHERE
+#EXTINF:-1 group-title="Movies"https://wacth.tv"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",MOVIESPHERE-2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 
