@@ -556,7 +556,8 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="News",The Guardian
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="News",CGTN En
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="News",CGTN News (EN)
+#https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://0472.org/hls/cgtn.m3u8
 
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="News",CGTN Documentary
@@ -564,9 +565,6 @@ https://0472.org/hls/cgtnd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News", RT News (EN) 🛜
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="News", CGTN News (EN) 🛜
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News",Iran International(EN) 🛜
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
