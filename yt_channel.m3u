@@ -238,9 +238,6 @@ https://aynaxpranto.vercel.app/api/stream/3830c379-539b-4e18-9943-9664574c850b.m
 #EXTINF:-1 group-title="Kids" tvg-logo="https://s3.aynaott.com/storage/4ff26fcdc9c7fdebcd79d61893271f69", Nickjr
 https://aynaxpranto.vercel.app/api/stream/c197b1bc-8909-4176-a50f-f855a4a51c1f.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Kids",Cartoon Network HD
-http://103.122.74.6:8888/hls/CARTON.NETWORK.HD.m3u8
-
 #EXTINF:-1 tvg-id="DoraTV.us" tvg-logo="https://i.imgur.com/Zk5Ss25.png" group-title="Kids",Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=985&terminate=false&userId=
 
@@ -250,23 +247,11 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="" group-title="Kids",BRAT TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Kids",Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png",DISNY CHANNEL
-http://119.156.26.155:8000/play/a05u/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png",DISCOVERY KIDS
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="",Kids TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVBubbleGuppies.us" tvg-logo="https://i.imgur.com/qMrbuXb.png" group-title="Kids",Pluto TV Bubble Guppies
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b5a4bb7da5c0007e5c9e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c631817-0713-11eb-9df2-0242ac110002&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="PlutoTVKidsAnimation.us" tvg-logo="https://i.imgur.com/l1d9j4d.png" group-title="Kids",Pluto TV Kids Animation
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ad56edc89300090d2ebb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=976&terminate=false&userId=
@@ -283,7 +268,7 @@ https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",ZOOMOO
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/130.jpg" group-title="Premium Channel",ZOO MOO ASIA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/130.jpg" group-title="Kids",ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NickJrEast.us" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Kids",Nick Jr. East (720p)
@@ -295,7 +280,8 @@ https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Kids",Sony YAY
 http://xtv.ooo:8080/danyear12/am809100/314753
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Kids",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
 ===Animation===
@@ -354,22 +340,7 @@ https://aynaxpranto.vercel.app/api/stream/32d28b2c-aded-481d-833b-cee57cecfc93.m
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD
-http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="Sports",Star Sports 2 HD.
-http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203%40.jpeg"group-title="Sports",Star Sports 3
-http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Sports",Star Sports Select 1
-http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Sports",Star Sports Select 2
-http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports",A Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="Sports",A Sports HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="Sports",Geo Super
@@ -381,15 +352,6 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Sports",Ten Sports PK
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="Sports",Willow Cricket
-http://103.122.74.6:8888/hls/WILLOW.HD.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Sports",Bein Sports 2
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Sports",Super Sports Cricket
-http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="Sports",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
@@ -399,7 +361,7 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 #EXTINF:-1 tvg-logo="" group-title="Sports", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/131.jpg" group-title="Sports",REDBULL TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/131.jpg" group-title="Sports",REDBULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-id="Dubai Sports 1.ae" tvg-name="Dubai Sports 1.ae" tvg-logo="https://warningfm.github.io/v3/img/easjB2c.png?v=1.1.1.1" group-title="Sports", DubaiSports 1
