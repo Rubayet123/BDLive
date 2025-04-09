@@ -114,19 +114,19 @@ http://xtv.ooo:8080/213112/213112/245908
 #http://xtv.ooo:8080/danyear12/am809100/245922
 http://xtv.ooo:8080/213112/213112/245911
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV-2
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLADESH",Ekattor TV-2
 http://xtv.ooo:8080/213112/213112/245915
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA",NEWS 24 HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLADESH",NEWS 24 HD
 http://xtv.ooo:8080/danyear12/am809100/245903
 
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLA",ATN Bangla
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BANGLADESH",ATN Bangla
 http://xtv.ooo:8080/213112/213112/245909
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLA",EkusheyTV
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BANGLADESH",EkusheyTV
 http://xtv.ooo:8080/213112/213112/245937
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA",BOISHAKHI TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLADESH",BOISHAKHI TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 
@@ -170,22 +170,22 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png",Movie Bangla HD
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="BANGLA",Kumilla tv
+#EXTINF:-1 tvg-logo="https://imgur.com/ofqGiiK" group-title="BANGLADESH",Kumilla tv
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA",IB TV USA
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",IB TV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg" group-title="BANGLA",iON TV Bangla
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg" group-title="BANGLADESH",iON TV Bangla
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gTnzXlx.png" group-title="BANGLA",Me Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gTnzXlx.png" group-title="BANGLADESH",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png" group-title="BANGLA",Time Televison
+#EXTINF:-1 tvg-logo="https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png" group-title="BANGLADESH",Time Televison
 https://cdn.streamcast.xyz/timetv/tracks-a1/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",DesheBideshe
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLADESH",DesheBideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 
@@ -221,7 +221,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kolkata Bangla",Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLA",Sananda tv
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",Sananda tv
 https://live.sanonda.tv/sanonda/index.m3u8
 
 
@@ -306,6 +306,7 @@ http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 group-title="Animation"https://wacth.tv"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",ZANIMAX JP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+
 
 
 ===Sports===
@@ -421,6 +422,9 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 
 ===Infotainment===
 
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Food 
+https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",History
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 
@@ -461,9 +465,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Documentary+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Food 
-https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects" tvg-logo="https://iili.io/JmoCDmJ.png" group-title="Infotainment Channels", Smithsonian Channel
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 
@@ -483,19 +484,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 ===NEWS===
 
-#EXTINF:-1 tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="News", Aljazeera HD 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png" group-title="News", Aljazeera HD 🛜
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="News", Aljazeera HD Backup 🛜
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="News", Aljazeera HD Backup 🛜v
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="News", DW English 📶_📺
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="News", DW English 📺
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png"group-title="News",CNN
+#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line-thumbnail.png"group-title="News",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="News",BBC World
@@ -737,10 +735,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
 
 ===Entertainment===
 
-#EXTINF:-1 group-title="Entertainment"https://wacth.tv"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",BAYWATCH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
-https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN
 http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 
@@ -771,12 +765,11 @@ http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Entertainment",BET HER
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KVh2kfQ/ion.png" group-title="Entertainment", ION
-https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LnJSkjh/ionplus.png" group-title="Entertainment", ION Plus
-https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 
+#EXTINF:-1 group-title="Entertainment"https://wacth.tv"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",BAYWATCH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Entertainment",Comedy Central
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
@@ -832,21 +825,18 @@ https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m
 
 ===Movies===
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Sony Pix
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony Pix
 http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="Movies",rock action
 http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Movies",HBO
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/973/890/png-clipart-hbo-television-cinemax-film-warner-one-television-text-thumbnail.png"group-title="Movies",HBO
 #https://fl2.moveonjoy.com/HBO/index.m3u8
 http://212.102.60.231/HBO/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/436/570/png-transparent-hbo-family-hd-logo-thumbnail.png" group-title="Movies",HBO Family
 http://212.102.60.231/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Movies",Lifetime
-http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movies",Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
@@ -909,7 +899,6 @@ http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
 http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
 #EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Movies",Crave 4 (720p)
 http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
-
 
 
 
@@ -1409,7 +1398,7 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Foreign" tvg-logo="",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xPjWyiL.png",TV9 Nusantara (Indonesia)
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://i.imgur.com/xPjWyiL.png",TV9 Nusantara (Indonesia)
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 
