@@ -450,7 +450,12 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 
 
 
+
+
 ===Infotainment===
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",TLC (Canada)
+http://royalfashion.design:80/Lucky/Lucky123/1685220
 
 #EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Infotainment Channels",Discovery Bangla
 http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
@@ -464,6 +469,8 @@ http://xtv.ooo:8080/danyear12/am809100/206285
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Infotainment Channels",Net Geo wild
 http://xtv.ooo:8080/danyear12/am809100/206286
 
+#EXTINF:-1 group-title="Infotainment Channels",ALB: NatGeo HD
+http://royalfashion.design:80/Norman/Norman123/1681509
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Food 
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -845,6 +852,8 @@ http://aktv_stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",PopC
 http://aktv_stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
 
+
+
 #EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Entertainment",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
 
@@ -859,6 +868,11 @@ http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Entertainment",BET HER
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/DOVE.png" group-title="Entertainment",Dove Chennel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+
+
 
 
 
@@ -913,9 +927,6 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",MBC1
 https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/DOVE.png" group-title="Entertainment",Dove Chennel
-https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
 
 
 
@@ -1031,18 +1042,15 @@ https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Movies",Star Movies
 http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Movies",Star Movies HD
 http://103.122.74.6:8888/hls/STAR.MOVIES.SEL.HD.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Movies",Star Movies Select HD
 http://103.122.74.6:8888/hls/COLOR.INFINITY.HD.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="Movies",HBO HD
 http://103.122.74.6:8888/hls/HBO.HD.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="Movies",HBO Hits
 http://103.122.74.6:8888/hls/HBO.HITS.m3u8
+
 
 
 
@@ -1501,6 +1509,75 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="HINDI MOVIES",MBC Bollywood HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
+
+
+
+<=========== Albenia TV ===========>
+
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Film Aksion
+http://royalfashion.design:80/Norman/Norman123/1681545
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Film Autor
+http://royalfashion.design:80/Norman/Norman123/1681546
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Film Box Extra HD
+http://royalfashion.design:80/Norman/Norman123/1681537
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Film Drame
+http://royalfashion.design:80/Norman/Norman123/1681547
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Film Dy HD
+http://royalfashion.design:80/Norman/Norman123/1681544
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Film Hits
+http://royalfashion.design:80/Norman/Norman123/1681548
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Film Komedi
+http://royalfashion.design:80/Norman/Norman123/1681549
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Film Nje HD
+http://royalfashion.design:80/Norman/Norman123/1681543
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Film Thriller
+http://royalfashion.design:80/Norman/Norman123/1681550
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Aksion
+http://royalfashion.design:80/Norman/Norman123/1681566
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Arnold Schwarzenegger
+http://royalfashion.design:80/Norman/Norman123/1681576
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Aventure
+http://royalfashion.design:80/Norman/Norman123/1681580
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Bud Spencer & Terence Hill
+http://royalfashion.design:80/Norman/Norman123/1681578
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Dwayne Johnson
+http://royalfashion.design:80/Norman/Norman123/1681575
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Epik
+http://royalfashion.design:80/Norman/Norman123/1681570
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Fantazi
+http://royalfashion.design:80/Norman/Norman123/1681567
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Femije
+http://royalfashion.design:80/Norman/Norman123/1681569
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Jackie Chan
+http://royalfashion.design:80/Norman/Norman123/1681573
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Komedi
+http://royalfashion.design:80/Norman/Norman123/1681579
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Relaks FHD
+http://royalfashion.design:80/Norman/Norman123/1681571
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Romance
+http://royalfashion.design:80/Norman/Norman123/1681568
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Spider-Man
+http://royalfashion.design:80/Norman/Norman123/1681572
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Sylvester Stallone
+http://royalfashion.design:80/Norman/Norman123/1681577
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Netflix Van Damme
+http://royalfashion.design:80/Norman/Norman123/1681574
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Sky Aksion
+http://royalfashion.design:80/Norman/Norman123/1681591
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Sky Komedi
+http://royalfashion.design:80/Norman/Norman123/1681592
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Tring Action
+http://royalfashion.design:80/Norman/Norman123/1681554
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Tring Comedy
+http://royalfashion.design:80/Norman/Norman123/1681555
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Tring Fantasy
+http://royalfashion.design:80/Norman/Norman123/1681556
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Tring History
+http://royalfashion.design:80/Norman/Norman123/1681558
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Tring Intern
+http://royalfashion.design:80/Norman/Norman123/1681553
+#EXTINF:-1 group-title="ALBANIA TV",ALB: Tring Life
+http://royalfashion.design:80/Norman/Norman123/1681552
 
 
 
