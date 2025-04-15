@@ -1401,6 +1401,78 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 
 
 
+<=========== Pakistan ===========>
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Pakistan",JooMusic (720p)
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",MTV Music
+http://125.209.88.166:45793/BRN/MtvMusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="Pakistan",aurLife HD (614p)
+http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Pakistan",Discover Pakistan (1080p)
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uKYH0IM.png" group-title="Pakistan",Geo Kahani (360p)
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",ARY Digital
+http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",ARY Zindagi
+http://125.209.88.166:45793/BRN/AryZindage.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",BOL Entertainment
+http://125.209.88.166:45793/BRN/BolEnt.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",Cartoon Network
+http://125.209.88.166:45793/BRN/CartoonNetwork.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",Disney Channel
+http://125.209.88.166:45793/BRN/DisneyChannelHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",Disney Junior
+http://125.209.88.166:45793/BRN/DisneyJuniorHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",DTX
+http://125.209.88.166:45793/BRN/DTX.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",Express Entertainment
+http://125.209.88.166:45793/BRN/ExpressEnt.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",Film World
+http://125.209.88.166:45793/BRN/FilmWorld.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",GEO Entertainment
+http://125.209.88.166:45793/BRN/GeoEnt.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",GEO Kahani
+http://125.209.88.166:45793/BRN/GeoKahani.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",GreenTv
+http://125.209.88.166:45793/BRN/Greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",HBO HD
+http://125.209.88.166:45793/BRN/HBOHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",HBO 2 HD
+http://125.209.88.166:45793/BRN/HBO2HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",HUM Masala
+http://125.209.88.166:45793/BRN/HumMasalah.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",HUM News
+http://125.209.88.166:45793/BRN/HumNewsHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",HUM TV
+http://125.209.88.166:45793/BRN/HumTvHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",Kids Zone HD
+http://125.209.88.166:45793/BRN/KidsZoneHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",Motor Vision
+http://125.209.88.166:45793/BRN/MotorVision.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",National Geographic HD
+http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",National Geographic Wild
+http://125.209.88.166:45793/BRN/NatGeoWild.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",PTV Home
+http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",City 42
+http://125.209.88.166:45793/BRN/City42.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",BOL News
+http://125.209.88.166:45793/BRN/BolNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",Dunya News
+http://125.209.88.166:45793/BRN/DuniyaNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",Express News
+http://125.209.88.166:45793/BRN/ExpressNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",GEO News
+http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",PTV News
+http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
+
+
+
+
 <=========== HBO Group ===========>
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="HBO Group",ID: HBO
@@ -1526,6 +1598,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="HINDI MOVIES",MBC Bollywood HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+
 
 
 
