@@ -469,11 +469,14 @@ http://xtv.ooo:8080/danyear12/am809100/206285
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Infotainment Channels",Net Geo wild
 http://xtv.ooo:8080/danyear12/am809100/206286
 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",National Geographic HD (PK)
+http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Pakistan",National Geographic Wild (PK)
+http://125.209.88.166:45793/BRN/NatGeoWild.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Infotainment Channels",ALB: NatGeo HD
 http://royalfashion.design:80/Norman/Norman123/1681509
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Food 
-https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",History
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
@@ -483,6 +486,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 
 #EXTINF:-1 tvg-id="HGTV.id" tvg-name="HGTV" tvg-logo="https://iili.io/Jmo0xC7.png" group-title="Infotainment Channels", HGTV
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Food 
+https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",Discover Pakistan TV
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
@@ -631,6 +639,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 
 ===Music_Hindi===
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music Hindi",MTV Music
+http://125.209.88.166:45793/BRN/MtvMusic.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="Music Hindi",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
@@ -935,6 +946,13 @@ https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index.m
 
 
 ===Movies===
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Movies",HBO-HD
+http://125.209.88.166:45793/BRN/HBOHD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Movies",HBO2-HD
+http://125.209.88.166:45793/BRN/HBO2HD.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony Pix
 http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
