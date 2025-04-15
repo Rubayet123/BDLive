@@ -921,7 +921,15 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 ===Entertainment===
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",AMC
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/popstartv.png",Popstar! TV 🇺🇸 🟤
+https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment" tvg-logo="https://www.etonline.com/img/favicons/apple-icon-180x180.png",ET Live Entertainment Tonightᴴᴰ 🇺🇸 🟤
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",AMC (BR)
 https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN
@@ -929,6 +937,7 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Channel 5 HD
 http://aktv_stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
+
 
 
 
@@ -1614,8 +1623,11 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Fashion",Fashion TV
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Fashion" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Midnightᴴᴰ 🇺🇸
+https://bit.ly/3WlaQCx?profile=inspirationFreeTV.m3u8
 
-
+#EXTINF:-1 tvg-id="" group-title="Fashion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/VOGUE_LOGO.svg/langfr-110px-VOGUE_LOGO.svg.png",Vogue 🇺🇸 🟤
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991138
 
 
 
