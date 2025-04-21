@@ -858,6 +858,8 @@ https://aynaxpranto.vercel.app/api/stream/0ac6af3d-acce-4d9d-9ce5-32d4b53f9326.m
 
 
 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://s3.aynaott.com/storage/ba6a7d0b4785ac8d1c5b53ce412f3e6a", BTV HD
+http://38.96.178.201:80/live/BTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLADESH",BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8
