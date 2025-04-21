@@ -731,6 +731,21 @@ http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC (Chicago)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="News",NBC (Chicago)
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stadium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="Sports",Stadium
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Music",MTV Classic
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="POP.us" tvg-name="PopTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="Entertainment",PopTV
+http://fl3.moveonjoy.com/Pop_TV/index.m3u8
+
+
+
+
 
 
 
@@ -1225,12 +1240,6 @@ http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Infotainment",National Geographic Wild (PK)
 http://125.209.88.166:45793/BRN/NatGeoWild.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Infotainment",NAT GEO WILD (USA)
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Infotainment",NAT GEO (USA)
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Infotainment",Weather Spy
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
 
@@ -1467,16 +1476,6 @@ https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/1200px-4fun.tv_Logo_%282017%29.svg.png" group-title="Music English",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f_low/index.m3u8
 
-
-#EXTINF:-1 tvg-id="NickMusic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="Music English",Nick Music (480p)
-http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
-
-#EXTINF:-1 tvg-id="BETJams.us" tvg-name="BET Jams" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="Music English",BET Jams
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
-
-#EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="BET SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="Music English",BET_SOUL
-http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Music English",MTV Biggest Pop (USA)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
 
@@ -1678,8 +1677,6 @@ https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist_1024x576.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment" tvg-logo="https://www.etonline.com/img/favicons/apple-icon-180x180.png",ET Live Entertainment Tonightᴴᴰ 🇺🇸 🟤
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?iu=/8264/vaw-can/desktop/cbsnews
 
-
-
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AMC (BR)
 https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/mono.m3u8
 
@@ -1689,28 +1686,8 @@ http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Channel 5 HD
 http://aktv_stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Entertainment",TCM
-http://fl1.moveonjoy.com/TCM/index.m3u8
-
-#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Entertainment",American Heroes Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
-
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Entertainment",BBC AMERICA
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-
-#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Entertainment",BET
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Entertainment",BET HER
-http://fl2.moveonjoy.com/BET_HER/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/DOVE.png" group-title="Entertainment",Dove Chennel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
-
-
 
 
 
@@ -1791,7 +1768,6 @@ http://aktv_stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
 http://xtv.ooo:8080/danyear12/am809100/66213
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/973/890/png-clipart-hbo-television-cinemax-film-warner-one-television-text-thumbnail.png"group-title="Movies",HBO
-#https://fl2.moveonjoy.com/HBO/index.m3u8
 http://212.102.60.231/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/436/570/png-transparent-hbo-family-hd-logo-thumbnail.png" group-title="Movies",HBO Family
@@ -1802,26 +1778,6 @@ https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oand
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="Movies",FX 1
 https://fxtvhls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Movies",Showtime
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-
-#EXTINF:-1 tvg-id="ShowtimeNext(Pacific).us" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Movies",Showtime Next
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Movies",Showtime Women
-http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-
-#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Movenjoy",SundanceTV
-http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-
-#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://i.imgur.com/S2VUrO8.png" group-title="Movies",MGM+ East
-http://fl2.moveonjoy.com/EPIX/index.m3u8
-
-#EXTINF:-1 tvg-id="MGMPlusMarquee.us" tvg-logo="https://i.imgur.com/QV7Lt5j.png" group-title="Movies",MGM+ Marquee
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-
-#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (1080p)
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",AMC Triller
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
@@ -1855,16 +1811,6 @@ https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 tvg-id="1.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/KCM.png" group-logo="" group-title="Movies",KCM
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcmasia-sooka-dash-sooka/index.mpd
-
-#EXTINF:-1 tvg-id="Crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png" group-title="Movies",Crave 1 (720p)
-http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 tvg-id="Crave2.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png" group-title="Movies",Crave 2 (720p)
-http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 tvg-id="Crave3.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png" group-title="Movies",Crave 3 (720p)
-http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png" group-title="Movies",Crave 4 (720p)
-http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPRGA9C.png" group-title="Movies",Hallmark Movies & More
@@ -2067,8 +2013,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306483
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO Group",ID: HBO Signature FHD
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO Group",ID: Cinemax
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
+
 
 
 
