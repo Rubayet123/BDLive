@@ -1212,93 +1212,93 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 
 
 
-===Infotainment===
+===Documentary===
 
-#EXTINF:-1  tvg-name="Animal Planet" tvg-id="Animal.Planet.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/animal-planet-int.png" group-title="Infotainment",Animal Planet
+#EXTINF:-1  tvg-name="Animal Planet" tvg-id="Animal.Planet.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/animal-planet-int.png" group-title="Documentary",Animal Planet
 https://ott.djdoolky76.net/stream/astro/animalplanet/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Discovery Asia" tvg-id="Discovery.Asia.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/discovery-asia-hk.png" group-title="Infotainment",Discovery Asia
+#EXTINF:-1  tvg-name="Discovery Asia" tvg-id="Discovery.Asia.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/discovery-asia-hk.png" group-title="Documentary",Discovery Asia
 https://ott.djdoolky76.net/stream/astro/discoveryasia/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="Infotainment",Discovery Channel
+#EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="Documentary",Discovery Channel
 https://ott.djdoolky76.net/stream/astro/discoverychannel/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
 
 
-#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Infotainment",Discovery Bangla
+#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Bangla
 http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Infotainment",Discovery Hindi
+#EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Hindi
 http://xtv.ooo:8080/danyear12/am809100/206287
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Infotainment",NAT GEO HD
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary",NAT GEO HD
 http://xtv.ooo:8080/danyear12/am809100/206285
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Infotainment",Net Geo wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Documentary",Net Geo wild
 http://xtv.ooo:8080/danyear12/am809100/206286
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Infotainment",National Geographic HD (PK)
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",National Geographic HD (PK)
 http://125.209.88.166:45793/BRN/NatGeoHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Infotainment",National Geographic Wild (PK)
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",National Geographic Wild (PK)
 http://125.209.88.166:45793/BRN/NatGeoWild.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Infotainment",Weather Spy
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Documentary",Weather Spy
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",History
+#EXTINF:-1 tvg-logo="" group-title="Documentary",History
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 
-#EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-name="Outdoor Channel" tvg-logo="https://iili.io/JmoCZ5g.png" group-title="Infotainment", Outdoor Channel
+#EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-name="Outdoor Channel" tvg-logo="https://iili.io/JmoCZ5g.png" group-title="Documentary", Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HGTV.id" tvg-name="HGTV" tvg-logo="https://iili.io/Jmo0xC7.png" group-title="Infotainment", HGTV
+#EXTINF:-1 tvg-id="HGTV.id" tvg-name="HGTV" tvg-logo="https://iili.io/Jmo0xC7.png" group-title="Documentary", HGTV
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",Food 
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Food 
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",Discover Pakistan TV
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Discover Pakistan TV
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", Xplore TV 📶 
+#EXTINF:-1 tvg-logo="" group-title="Documentary", Xplore TV 📶 
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png", Travel XP English (BD)
+#EXTINF:-1 tvg-logo="" group-title="Documentary" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png", Travel XP English (BD)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP GB
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Documentary",Travel XP GB
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png" group-title="Infotainment",Travel XP English NL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png" group-title="Documentary",Travel XP English NL
 https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English EU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Documentary",Travel XP English EU
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English NZ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Documentary",Travel XP English NZ
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Infotainment",Travel XP English SE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Documentary",Travel XP English SE
 https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Infotainment", Love Nature 4K*
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Documentary", Love Nature 4K*
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KeIhwNP.png" group-title="Infotainment",TED
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KeIhwNP.png" group-title="Documentary",TED
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",True History
+#EXTINF:-1 tvg-logo="" group-title="Documentary",True History
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",Documentary+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Documentary+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
 
-#EXTINF:-1 tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects" tvg-logo="https://iili.io/JmoCDmJ.png" group-title="Infotainment", Smithsonian Channel
+#EXTINF:-1 tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects" tvg-logo="https://iili.io/JmoCDmJ.png" group-title="Documentary", Smithsonian Channel
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment",Museum
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Museum
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-id="Curiosity.id" tvg-name="Curiosity" tvg-logo="https://iili.io/JmoCkJe.png" group-title="Infotainment", Curiosity
+#EXTINF:-1 tvg-id="Curiosity.id" tvg-name="Curiosity" tvg-logo="https://iili.io/JmoCkJe.png" group-title="Documentary", Curiosity
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 
