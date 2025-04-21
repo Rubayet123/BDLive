@@ -365,6 +365,9 @@ http://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" tvg-name="mtvU",mtvU
 http://fl2.moveonjoy.com/MTV_U/index.m3u8
 
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Entertainment",MTV Classic
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-id="Much.Music.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" tvg-name="MUCH",MUCH
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 
@@ -737,10 +740,7 @@ http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stadium" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" group-title="Sports",Stadium
 http://fl2.moveonjoy.com/STADIUM/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Music",MTV Classic
-http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-id="POP.us" tvg-name="PopTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="Entertainment",PopTV
+#EXTINF:-1 tvg-id="POP.us" tvg-name="PopTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="Entertainment",PopTV-2
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 
 
