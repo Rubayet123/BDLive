@@ -1,6 +1,10 @@
-<=========== Moveonjoy ===========>
-
+#EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/moveonjoy-epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/udptv-epg.xml"
+
+
+
+<=========== Moveonjoy ===========>
 
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
@@ -754,10 +758,6 @@ http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 
 
 <===Channel-List===>
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/udptv-epg.xml"
-
-
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star sports1 (BDIX)
 #http://10.10.10.2/live/fnffeed1001/index.m3u8
