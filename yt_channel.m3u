@@ -757,19 +757,19 @@ http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 
 
 
-<===Channel-List===>
+<===================================Channel-List===============================================>
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/E5jjKHI.png",Star sports1 (BDIX)
-#http://10.10.10.2/live/fnffeed1001/index.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Channel 1
+http://10.10.10.2/live/fnf001/index.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/2Lzhiq6.png",Gazi (BDIX)
-#http://10.10.10.2/live/fnffeed1002/index.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/2Lzhiq6.png",Channel 2
+http://10.10.10.2/live/fnf002/index.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Tsports (BDIX)
-#http://10.10.10.2/live/fnffeed1003/index.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="",Channel 3
+http://10.10.10.2/live/fnf003/index.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.tsports.com/images/favicon_io/android-icon-192x192.png",Undefine (BDIX)
-#http://10.10.10.2/live/fnffeed1003/index.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/E5jjKHI.png",Channel 4
+http://10.10.10.2/live/fnf004/index.m3u8
 
 
 
