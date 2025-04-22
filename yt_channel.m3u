@@ -1059,33 +1059,33 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-name="Animax" tvg-id="Animax.(HD).sg" tvg-logo="https://i.imgur.com/b5YKiRd.png" group-title="KIDS",Animax
+#EXTINF:-1  tvg-name="Animax" tvg-id="Animax.(HD).sg" tvg-logo="https://i.imgur.com/b5YKiRd.png" group-title="Kids",Animax
 http://ott.udptv.net/stream/iptv/animax/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Anime x Hidive" tvg-id="plex.tv.ANIME.x.HIDIVE.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="KIDS",Anime x Hidive
+#EXTINF:-1  tvg-name="Anime x Hidive" tvg-id="plex.tv.ANIME.x.HIDIVE.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="Kids",Anime x Hidive
 https://ott.udptv.net/stream/iptv/animexhidive/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Astro Cartoon Network" tvg-id="Cartoon.Network.HD.my" tvg-logo="https://i.imgur.com/8mfFj4h.png" group-title="KIDS",Astro Cartoon Network
+#EXTINF:-1  tvg-name="Astro Cartoon Network" tvg-id="Cartoon.Network.HD.my" tvg-logo="https://i.imgur.com/8mfFj4h.png" group-title="Kids",Astro Cartoon Network
 https://ott.djdoolky76.net/stream/astro/astrocartoonnetwork/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Boomerang" tvg-id="Cartoonito.(HD).sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoonito-us.png?raw=true" group-title="KIDS",Boomerang
+#EXTINF:-1  tvg-name="Boomerang" tvg-id="Cartoonito.(HD).sg" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoonito-us.png?raw=true" group-title="Kids",Boomerang
 https://ott.udptv.net/stream/iptv/boomerang/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Cartoon Network" tvg-id="Cartoon.Network.HD.my" tvg-logo="https://i.imgur.com/8mfFj4h.png" group-title="KIDS",Cartoon Network
+#EXTINF:-1  tvg-name="Cartoon Network" tvg-id="Cartoon.Network.HD.my" tvg-logo="https://i.imgur.com/8mfFj4h.png" group-title="Kids",Cartoon Network
 http://ott.udptv.net/stream/iptv/cartoonnetwork/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Cignal Dreamworks" tvg-id="Cg.Dreamworktag.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="KIDS",Cignal Dreamworks
+#EXTINF:-1  tvg-name="Cignal Dreamworks" tvg-id="Cg.Dreamworktag.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids",Cignal Dreamworks
 http://ott.udptv.net/stream/iptv/cignaldreamworks/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Disney Channel" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",Disney Channel
+#EXTINF:-1  tvg-name="Disney Channel" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/300px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
 http://ott.udptv.net/stream/iptv/disneychannel/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Disney JR" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/300px-Disney_Jr._2024.svg.png" group-title="KIDS",Disney JR
+#EXTINF:-1  tvg-name="Disney JR" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/300px-Disney_Jr._2024.svg.png" group-title="Kids",Disney JR
 http://ott.udptv.net/stream/iptv/disneyjr/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Disney XD" tvg-id="Disney.XD.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/300px-Disney_XD_-_2015.svg.png" group-title="KIDS",Disney XD
+#EXTINF:-1  tvg-name="Disney XD" tvg-id="Disney.XD.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/300px-Disney_XD_-_2015.svg.png" group-title="Kids",Disney XD
 http://ott.udptv.net/stream/iptv/disneyxd/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="KIDS",Dreamworks Tagalized
+#EXTINF:-1  tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="Kids",Dreamworks Tagalized
 http://ott.udptv.net/stream/iptv/dreamworkstagalized/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Moonbug Kids" tvg-id="Moonbug.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/moonbug-kids-my.png" group-title="KIDS",Moonbug Kids
+#EXTINF:-1  tvg-name="Moonbug Kids" tvg-id="Moonbug.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/moonbug-kids-my.png" group-title="Kids",Moonbug Kids
 https://ott.djdoolky76.net/stream/astro/moonbugkids/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Nick Junior" tvg-id="Nick.Jr..my" tvg-logo="https://i.imgur.com/HbSHzXU.png" group-title="KIDS",Nick Junior
+#EXTINF:-1  tvg-name="Nick Junior" tvg-id="Nick.Jr..my" tvg-logo="https://i.imgur.com/HbSHzXU.png" group-title="Kids",Nick Junior
 https://ott.djdoolky76.net/stream/astro/nickjunior/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Nickelodeon" tvg-id="Nickelodeon.HD.my" tvg-logo="https://i.imgur.com/kbIi1V6.png" group-title="KIDS",Nickelodeon
+#EXTINF:-1  tvg-name="Nickelodeon" tvg-id="Nickelodeon.HD.my" tvg-logo="https://i.imgur.com/kbIi1V6.png" group-title="Kids",Nickelodeon
 https://ott.djdoolky76.net/stream/astro/nickelodeon/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
-#EXTINF:-1  tvg-name="Nick Toons" tvg-id="Nicktoons.lt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/nick-toons-rs.png?raw=true" group-title="KIDS",Nick Toons
+#EXTINF:-1  tvg-name="Nick Toons" tvg-id="Nicktoons.lt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/nick-toons-rs.png?raw=true" group-title="Kids",Nick Toons
 https://ott-sg.djdoolky76.net/stream/udptv/nicktoons/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
 
 
@@ -2459,6 +2459,9 @@ https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 
+
+
+
 <=========== INDONESIA ===========>
 
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia",Nusantara TV
@@ -2486,6 +2489,102 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="MALAYSIA", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+
+
+
+<=========== Philippines ===========>
+
+#EXTINF:-1  tvg-name="A2Z" tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="Philippines",A2Z
+http://ott.udptv.net/stream/iptv/a2z/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Aliw TV" tvg-id="iptv/aliwtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/ALIW-Channel-23.png/" group-title="Philippines",Aliw TV
+http://ott.udptv.net/stream/iptv/aliwtv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="ALL TV" tvg-id="iptv/alltv" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="Philippines",ALL TV
+http://ott.udptv.net/stream/iptv/alltv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="ANC Global" tvg-id="ANC.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4c/ANC_Logo_2015.png" group-title="Philippines",ANC Global
+http://ott.udptv.net/stream/iptv/ancglobal/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="ANC PH" tvg-id="ANC.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4c/ANC_Logo_2015.png" group-title="Philippines",ANC PH
+http://ott.udptv.net/stream/iptv/ancph/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Cinema One Global" tvg-id="Cinema.One.ph" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="Philippines",Cinema One Global
+http://ott.udptv.net/stream/iptv/cinemaoneglobal/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Cinema One PH" tvg-id="Cinema.One.ph" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="Philippines",Cinema One PH
+http://ott.udptv.net/stream/iptv/cinemaoneph/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Cinemo Global" tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="Philippines",Cinemo Global
+http://ott.udptv.net/stream/iptv/cinemoglobal/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Cinemo PH" tvg-id="CINEMO!.ph" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="Philippines",Cinemo PH
+http://ott.udptv.net/stream/iptv/cinemoph/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="CLTV 36" tvg-id="iptv/cltv36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="Philippines",CLTV 36
+http://ott.udptv.net/stream/iptv/cltv36/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="GMA" tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Philippines",GMA
+https://ott.udptv.net/stream/iptv/gma/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="GMA Life TV" tvg-id="GMA.Life.TV.hk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Philippines",GMA Life TV
+https://ott.udptv.net/stream/iptv/gmalifetv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="GMA News TV" tvg-id="GMA.News.TV.hk" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/GMA_News_TV_Logo_2019.png" group-title="Philippines",GMA News TV
+https://ott.udptv.net/stream/iptv/gmanewstv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="GMA Pinoy TV" tvg-id="GMA.Pinoy.TV.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="Philippines",GMA Pinoy TV
+https://ott.udptv.net/stream/iptv/gmapinoytv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Philippines",GTV
+http://ott.udptv.net/stream/iptv/gtv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Heart of Asia" tvg-id="iptv/heartofasia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/400px-Heart_of_Asia_logo.svg.png" group-title="Philippines",Heart of Asia
+https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="IBC13" tvg-id="IBC.TV.13.ph" tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/4/45/IBC_13_Logo.png" group-title="Philippines",IBC13
+http://ott.udptv.net/stream/iptv/ibc13/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="iHeart Movies" tvg-id="iptv/iheartmovies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png" group-title="Philippines",iHeart Movies
+https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Jeepney TV" tvg-id="Jeepney.TV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/24/Jeepney_TV_Logo_2015.png/revision/latest/scale-to-width-down/300?cb=20220516124640" group-title="Philippines",Jeepney TV
+http://ott.udptv.net/stream/iptv/jeepneytv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Jugo Pinoy TV" tvg-id="iptv/jugopinoytv" tvg-logo="https://dito.ph/hubfs/Dito_July2021/Ott%20Pages/Jungo-img/Jungo-logo.png" group-title="Philippines",Jugo Pinoy TV
+http://ott.udptv.net/stream/iptv/jugopinoytv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Kapamilya Channel" tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/POt9KB8.png" group-title="Philippines",Kapamilya Channel
+http://ott.udptv.net/stream/iptv/kapamilyachannel/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Knowledge Channel" tvg-id="Knowledge.Channel.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Knowledge-Channel.png" group-title="Philippines",Knowledge Channel
+http://ott.udptv.net/stream/iptv/knowledgechannel/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Metro Channel" tvg-id="Metro.Channel.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/25/Metro_Channel_Logo_2018.png/revision/latest/scale-to-width-down/350?" group-title="Philippines",Metro Channel
+http://ott.udptv.net/stream/iptv/metrochannel/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="NET25" tvg-id="Net.25.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9d/Net_25_Logo_2021.png/revision/latest/scale-to-width-down/1200?cb=20220810102057" group-title="Philippines",NET25
+http://ott.udptv.net/stream/iptv/net25/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="One News" tvg-id="Onenews.Hd.ph" tvg-logo="https://i.imgur.com/flKo7E5.png" group-title="Philippines",One News
+http://ott.udptv.net/stream/iptv/onenews/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="One PH" tvg-id="Oneph.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/300px-OnePHCignal.svg.png" group-title="Philippines",One PH
+http://ott.udptv.net/stream/iptv/oneph/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="One Sports" tvg-id="Onesports.ph" tvg-logo="https://i.imgur.com/RrBWZ16.png" group-title="Philippines",One Sports
+http://ott.udptv.net/stream/iptv/onesports-1/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="One Sports +" tvg-id="Onesportsplus.Hd.ph" tvg-logo="https://i.imgur.com/nFLt8cN.png" group-title="Philippines",One Sports +
+http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="PBB All-Access Livestream" tvg-id="iptv/pbballaccesslivestream" tvg-logo="https://i.imgur.com/aEnPH2R.png" group-title="Philippines",PBB All-Access Livestream
+https://ott.udptv.net/stream/iptv/pbballaccesslivestream/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="PTV" tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/plyCuAw.png" group-title="Philippines",PTV
+http://ott.udptv.net/stream/iptv/ptv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="RPTV" tvg-id="Rptv.ph" tvg-logo="https://i.imgur.com/IDCHfXm.png" group-title="Philippines",RPTV
+http://ott.udptv.net/stream/iptv/rptv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Sari Sari" tvg-id="Sari.Sari.ph" tvg-logo="https://i.imgur.com/l2A1mt5.jpg" group-title="Philippines",Sari Sari
+http://ott.udptv.net/stream/iptv/sarisari/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="ScreamFlix" tvg-id="iptv/screamflix" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/Scream_Flix_Logo_2022.png/revision/latest/scale-to-width-down/1200?cb=20220822212239" group-title="Philippines",ScreamFlix
+http://ott.udptv.net/stream/iptv/screamflix/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="SMNI" tvg-id="iptv/smni" tvg-logo="https://i.imgur.com/WL2ugeZ.png" group-title="Philippines",SMNI
+http://ott.udptv.net/stream/iptv/smni/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Super Radyo DZBB" tvg-id="iptv/dzbb" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/95/Super_Radyo_DZBB_Logo_2018.png/revision/latest/scale-to-width-down/300?cb=20180310011541" group-title="Philippines",Super Radyo DZBB
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1  tvg-name="Tap TV" tvg-id="Taptv.ph" tvg-logo="https://i.imgur.com/xFc6plV.png" group-title="Philippines",Tap TV
+http://ott.udptv.net/stream/iptv/taptv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Teleradyo Serbisyo" tvg-id="TELERADYO.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/500px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Philippines",Teleradyo Serbisyo
+http://ott.udptv.net/stream/iptv/teleradyoserbisyo/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Teleradyo Serbisyo SD" tvg-id="TELERADYO.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/500px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Philippines",Teleradyo Serbisyo SD
+http://ott.udptv.net/stream/iptv/teleradyoserbisyosd/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="TFC Asia" tvg-id="TFC.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tfc-us.png" group-title="Philippines",TFC Asia
+http://ott.udptv.net/stream/iptv/tfcasia/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="TFC Global" tvg-id="TFC.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tfc-us.png" group-title="Philippines",TFC Global
+http://ott.udptv.net/stream/iptv/tfcglobal/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="True FM TV" tvg-id="Truefmtv.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/TRUETV_Logo_2024.png/revision/latest/smart/width/250/height/250" group-title="Philippines",True FM TV
+http://ott.udptv.net/stream/iptv/truefmtv/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="TV5 HD" tvg-id="Tv5.ph" tvg-logo="https://i.imgur.com/jsCBRq0.png" group-title="Philippines",TV5 HD
+http://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="tvN Movies Pinoy" tvg-id="Cg.Tvnmovie.ph" tvg-logo="https://i.imgur.com/9fKNEHY.png" group-title="Philippines",tvN Movies Pinoy
+http://ott.udptv.net/stream/iptv/tvnmoviespinoy/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Viva Cinema" tvg-id="VIVA.Cinema.ph" tvg-logo="https://i.imgur.com/5jn4U88.png" group-title="Philippines",Viva Cinema
+http://ott.udptv.net/stream/iptv/vivacinema/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
+#EXTINF:-1  tvg-name="Buko" tvg-id="iptv/buko" tvg-logo="https://i.imgur.com/c740k3p.png" group-title="Philippines",Buko
+https://ott.udptv.net/stream/iptv/buko/master.m3u8?u=udpteam@djdoolky76&p=39b88e99dfbf6126a8a8a44072c74e2814222e00ac8b1f380fec00a77902b3b8
 
 
 
@@ -2691,14 +2790,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HINDI MOVIES" tvg-logo="https://png.pngtree.com/template/20220424/ourmid/pngtree-bollywood-cinema-cinematography-banner-logo-brochure-image_1179540.jpg",Bollywood HD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",SHEEMAROO BOLLYWOOD
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",SHEEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",SHEEMAROO BOLLYWOOD
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",SHEEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="Movies Hindi" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png",BOLLYWOOD PRIME
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 group-title="Movies Hindi" tvg-logo="",Pitaara HD
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="",Pitaara HD
 http://212.102.34.8:9080/Pitaara/index.m3u8
+
+
 
 
 
