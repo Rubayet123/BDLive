@@ -1847,8 +1847,6 @@ http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
 http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" tvg-name="Showtime 2",Showtime 2
 http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-id="Showtime.Extreme.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" tvg-name="Showtime Extreme",Showtime Extreme
-http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Sony.Movie.Channel.(Stream.2).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" tvg-name="Sony Movie Channel (Stream 2)",Sony Movie Channel (Stream 2)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1217
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.Women.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" tvg-name="Showtime Women",Showtime Women
