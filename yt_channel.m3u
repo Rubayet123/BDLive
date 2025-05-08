@@ -1513,7 +1513,6 @@ http://212.102.34.8:9080/Pitaara/index.m3u8
 
 <=========== Moveonjoy ===========>
 
-#EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-id="AandE.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/212.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="5.StarMax.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
