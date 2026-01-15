@@ -1,0 +1,31 @@
+{
+  "provider": "Demo IPTV",
+  "updated": "2025-01-01",
+  "live": [
+    {
+      "id": "1001",
+      "name": "News HD",
+      "group": "News",
+      "logo": "http://demo-server.com/logos/news_hd.png",
+      "url": "http://demo-server.com/live/demo_user/demo_pass/1001.ts"
+    },
+    {
+      "id": "1002",
+      "name": "Sports Max",
+      "group": "Sports",
+      "logo": "http://demo-server.com/logos/sports_max.png",
+      "url": "http://demo-server.com/live/demo_user/demo_pass/1002.ts"
+    }
+  ],
+  "movies": [
+    {
+      "id": "2001",
+      "title": "Movie One",
+      "year": 2024,
+      "category": "Action",
+      "poster": "http://demo-server.com/posters/movie_one.jpg",
+      "url": "http://demo-server.com/movie/demo_user/demo_pass/2001.mp4"
+    }
+  ],
+  "series": []
+}

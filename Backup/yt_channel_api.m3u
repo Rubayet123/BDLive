@@ -1,0 +1,166 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#EXTINF:-1 group-title="News International" tvg-logo="" tvg-id="", Aaj Tak
+https://ythls-v3.onrender.com/channel/channel_id.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" tvg-id="", Jamuna TV
+https://ythls-v3.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://seeklogo.com/images/C/channel-i-logo-F9F1100F83-seeklogo.com.png" tvg-id="", Channel i
+https://ythls-v3.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://seeklogo.com/images/N/ntv-channel-logo-D930884934-seeklogo.com.png" tvg-id="", NTV
+https://ythls-v3.onrender.com/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSFVxdB5tk0trTopkJmC1fUrciGDNWcdKSew&s" tvg-id="", Somoy TV
+https://ythls-v3.onrender.com/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" tvg-id="", ATN News
+https://ythls-v3.onrender.com/channel/UCt8llfhkf9LRzjTEnbG2qnQ.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://cdn.ekattor.net/contents/themes/public/style/images/logo-footer.png" tvg-id="", Ekattor TV
+https://ythls-v3.onrender.com/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQ_sz70bWs35CVJi1j9tmuTC3kModienShQ&s" tvg-id="", Independent TV
+https://ythls-v3.onrender.com/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" tvg-id="", Rtv
+https://ythls-v3.onrender.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" tvg-id="", DBC News
+https://ythls-v3.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" tvg-id="", Ekhon TV
+https://ythls-v3.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" tvg-id="", Channel 24
+https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/News24-logo.png" tvg-id="", News24
+https://ythls-v3.onrender.com/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://yt3.googleusercontent.com/y6fil5-OINOjqxq4V_ENiRYYYT8RPuLEv2p2XBNFgOCiRJdgfsqksnldnSBsaAqpwPsxDN6sJD0=s160-c-k-c0x00ffffff-no-rj" tvg-id="", Nexus TV
+https://ythls-v3.onrender.com/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+
+#EXTINF:-1 group-title="BD" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/57/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png?20230428172613" tvg-id="", Desh TV
+https://ythls-v3.onrender.com/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png" tvg-id="", Rtv Music
+https://ythls-v3.onrender.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" tvg-id="", Arirang Korea
+https://ythls-v3.onrender.com/channel/UC-PHIZjV-oX8H7zD1cCN2NQ.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/640px-CNA_new_logo.svg.png" tvg-id="", CNA
+https://ythls-v3.onrender.com/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/640px-CNA_new_logo.svg.png" tvg-id="", CNA Insider
+https://ythls-v3.onrender.com/channel/UC_Lnb8ZHqqgLbp-7hltuT9w.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/NOW_from_FOX.png" tvg-id="", LiveNOW from FOX
+https://ythls-v3.onrender.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Sky-News-Logo.png" tvg-id="", Sky News
+https://ythls-v3.onrender.com/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" tvg-id="", FOX Weather
+https://ythls-v3.onrender.com/channel/UC1FbPiXx59_ltnFVx7IxWow.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/YKrh5sIYpesEIHbjfgqwFjFx3ZgIjM_zak2z0LO8QENSgrmgKBes1m65POj9jkmzm0qoKwgl=s160-c-k-c0x00ffffff-no-rj" tvg-id="", Al Jazeera
+https://ythls-v3.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/w5ls-zGHOJYlOOYIi6K_9Hjjbh2XGoM2SYFvL8KuOrk8BJ8G_XFW8d2lYjjd4Gq9INwsARLk0Q=s160-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
+https://ythls-v3.onrender.com/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/800px-WION_news_Logo.svg.png" tvg-id="", WION
+https://ythls-v3.onrender.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" tvg-id="", NHK World
+https://ythls-v3.onrender.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" tvg-id="", ARY News PK
+https://ythls-v3.onrender.com/channel/UCMmpLL2ucRHAXbNHiCPyIyg.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png" tvg-id="", France24
+https://ythls-v3.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/9QATDXAANCn4Z5pqMiRj54aYxsZza-nHbKGk6mmEfVfEPp5bsfwHXBzG8XIcJizrT4Ed67RY=s160-c-k-c0x00ffffff-no-rj" tvg-id="", GB News
+https://ythls-v3.onrender.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s160-c-k-c0x00ffffff-no-rj" tvg-id="", ABC News
+https://ythls-v3.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k1_mRYQG-HAspwbSjYcshWT6yECtfxdmfmCfIchUZsWHB9=s160-c-k-c0x00ffffff-no-rj" tvg-id="", ABC7 NY News
+https://ythls-v3.onrender.com/channel/UCrlIS7z20CnVaCrMvdkig_g.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj" tvg-id="", NDTV
+https://ythls-v3.onrender.com/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s160-c-k-c0x00ffffff-no-rj" tvg-id="", Bloomberg
+https://ythls-v3.onrender.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/QnXaC_YmVgrih83IPHmS_37TOJquPQm4ESeop_PTyvatdS6pJa4ynQ57K9NtD6xV9n41h7to6Bw=s160-c-k-c0x00ffffff-no-rj" tvg-id="", Bloomberg Originals
+https://ythls-v3.onrender.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/67h6bB9Vlw5SpQkWek4Uk8weqxzaPNGH76sAMK4j431Jx8JlUt8mblVlTCwseeb7rDavn3yBJA=s160-c-k-c0x00ffffff-no-rj" tvg-id="", Bloomberg Quicktake
+https://ythls-v3.onrender.com/channel/UChirEOpgFCupRAk5etXqPaA.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lHPbB8ofmOO9z-qIfDyvdIkJwvZQIlzMkLheepDb2PWDQ=s160-c-k-c0x00ffffff-no-rj" tvg-id="", ABC News Australia
+https://ythls-v3.onrender.com/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/t3slq37NYJRuP2UoEZDoPKyMClKyQULG8-j2DEfzL1XXcBvFpR6z6HD7rtc0wDn8Mqt0OtpU=s160-c-k-c0x00ffffff-no-rj" tvg-id="", Euro News
+https://ythls-v3.onrender.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mpuS6J3PwGJatG2czLGfmZHyE_kNicqukg0jBnCbENmiJl=s160-c-k-c0x00ffffff-no-rj" tvg-id="", USA Today
+https://ythls-v3.onrender.com/channel/UCP6HGa63sBC7-KHtkme-p-g.m3u8
+
+#EXTINF:-1 group-title="News International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" tvg-id="", CNBC
+https://ythls-v3.onrender.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/2f1RU8ogcIDHFAe6UkIKCl-nQNOgLoNz0bAzBrFpfhAj2C3CVcFU3MRHrIKaqYmHeqLqdFeyxLg=s160-c-k-c0x00ffffff-no-rj" tvg-id="", Booba Cartoon
+https://ythls-v3.onrender.com/channel/UCKS1HX4moHCcDBZnM9k4giw.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" tvg-id="", Disney Channel
+https://ythls-v3.onrender.com/channel/UCw7SNYrYei7F5ttQO3o-rpA.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://yt3.googleusercontent.com/OsILVN24vcOj1TCJAy15Z_TFY1eYnDVj3EMnQIv5TreYmskDhtVn1Sz1IeBjoexUxjmXgKdO2Q=s160-c-k-c0x00ffffff-no-rj" tvg-id="", NatGeo Kids
+https://ythls-v3.onrender.com/channel/UCXVCgDuD_QCkI7gTKU7-tpg.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1024px-Nick_Jr._logo_2023_%28outline%29.svg.png" tvg-id="", Nick Jr
+https://ythls-v3.onrender.com/channel/UCUe6ZpY6TJ0no8jI4l2iLxw.m3u8
+
+#EXTINF:-1 group-title="Infotainment Channels" tvg-logo="https://yt3.googleusercontent.com/RRL8O751UsFCCL1U6tVCLlWr19skngM4dbAEb6EGE4Rcqqz842sf9bQGBk3IfnPlkcFvNyknyA=s160-c-k-c0x00ffffff-no-rj" tvg-id="", NatGeo Wild
+https://ythls-v3.onrender.com/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Radio-icon.png" tvg-id="", Epidemic Pop
+https://ythls-v3.onrender.com/channel/UCzMxEa-lDX2AfgotszScOFg.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Radio-icon.png" tvg-id="", Perfect Sound
+https://ythls-v3.onrender.com/channel/UCE7gceSq79z8uW7cTe86UaA.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Radio-icon.png" tvg-id="", LofiGirl
+https://ythls-v3.onrender.com/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Radio-icon.png" tvg-id="", Piano Relaxing
+https://ythls-v3.onrender.com/channel/UCEiS8m8OLFI0REntmsTvzjA.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Radio-icon.png" tvg-id="", Cafe Music
+https://ythls-v3.onrender.com/channel/UCJhjE7wbdYAae1G25m0tHAA.m3u8
+
+#EXTINF:-1 group-title="Live Feed" tvg-logo="https://yt3.googleusercontent.com/2kw8s66dhLUegJ3XrqZSkZMfp77CRhCfYm1NurDwDB2L9sT_-CaoUix_iWjoE_t66b07JzoR=s160-c-k-c0x00ffffff-no-rj" tvg-id="", NASA Live
+https://ythls-v3.onrender.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ.m3u8
+
+#EXTINF:-1 group-title="Live Feed" tvg-logo="https://yt3.googleusercontent.com/gWfOyEQ67bMGh2EvCENeg3cPqTrovz6h1Xv_qqGAaS4fM1e-ONK4njYMQVkgVo_4Wpe5u_sVlPw=s160-c-k-c0x00ffffff-no-rj" tvg-id="", 4K Natural Wonders
+https://ythls-v3.onrender.com/channel/UCwG4RwTm26PpZ8Wqs86zwWw.m3u8
+
+#EXTINF:-1 group-title="Live Feed" tvg-logo="https://yt3.googleusercontent.com/SlPs-7p4QsKoo2P1ym0NWhfd0LzotpJzD_v-V4VwtWEKQ8Gv7R6qsT9-8Jc7Ip-6VYkdTZU4cVg=s160-c-k-c0x00ffffff-no-rj" tvg-id="", WEBCAM NEPAL
+https://ythls-v3.onrender.com/channel/UCCCVkU6r9ZTD8E4z7AtuOIw.m3u8
+
+#EXTINF:-1 group-title="Live Feed" tvg-logo="https://yt3.googleusercontent.com/X5MJxLNLe3eQtZ0JhDC2CgiYyTvhHQcFu13cCLIeIiLgELQ9h9v08ZwQt9ZUD_jqeZeVG9vfZA=s160-c-k-c0x00ffffff-no-rj" tvg-id="", Our Planet 4K
+https://ythls-v3.onrender.com/channel/UCF-Nrg1hkyKhjqzLyWBZ0ug.m3u8
+
+#EXTINF:-1 group-title="Live Feed" tvg-logo="https://yt3.googleusercontent.com/gJ_n6G_BVilwzsxQdH_GB4ze0CaAIeEX9XG0L4OYKMs5EEihk6XdVYX2uhdKvmunlFueddOS_04=s160-c-k-c0x00ffffff-no-rj" tvg-id="", Airliners Live
+https://ythls-v3.onrender.com/channel/UCMT8bf9CCfdLb_DTwJidOng.m3u8
+
+#EXTINF:-1 group-title="Live Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/WebCam.png" tvg-id="", Skyline Webcams
+https://ythls-v3.onrender.com/channel/UC2WMV4vCYurHdHPd9pCqYSg.m3u8

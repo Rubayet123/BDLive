@@ -1,0 +1,150 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png" group-title="Music",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/be5e8825-d7d6-4423-a172-50b075065ee6/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qubgOi5.png" group-title="Music",9XM Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/91360c6b-b2f1-4838-88fe-4f1f4fd99172/1.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b3389339bd16854406ac7233c5c5501a.png",Mastii Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/d6e83df4-d027-4c1f-9942-5f6a40fd131a/3.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/15d058ad837ee3e6d5cfe2651b11aa49.png" group-title="Music",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png" group-title="Music",Show Box
+https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",YRF
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Music",Shemaroo
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Music",Shemaroo Filmi Gaane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/MTV_Beats#/media/File:MTV_Beats_Logo.png" group-title="Music",MTV Beats
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Music",E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Music",AMC Music
+https://amchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Music",mh1 music
+https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+
+#EXTINF:-1 group-title="Hindi-New" tvg-logo="",Zoom
+http://109.61.81.147:2080/cdn2/532/video.m3u8?token=4444
+
+
+
+
+
+===Music_International===
+
+#EXTINF:-1 tvg-logo="" group-title="Music International",MTV Biggest Pop (USA)
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+#EXTINF:-1 group-title="Music International" tvg-id="AfrobeatTVEntertainment.uk", Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",Trace Urban
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",Trace Latino
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",Pluto TV MTV Music Made in Spain
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="" group-title="Music International",TV A7 Plus (Brazil)
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",NogoumFMTV (Egypt) 
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",OneTV (Lebanon) 
+https://live.3cd.io/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",Cantina TV (Venezuela)
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",California Music Channel
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",CMT Music
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109
+#EXTINF:-1 tvg-logo="" group-title="Music International",MTV Spankin' New (United States)
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
+#EXTINF:-1 tvg-logo="" group-title="Music International",Nick Music
+https://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",Vevo 2k
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
+#EXTINF:-1 tvg-logo="" group-title="Music International",Vevo 90
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
+#EXTINF:-1 tvg-logo="" group-title="Music International",Vevo Pop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
+#EXTINF:-1 tvg-logo="" group-title="Music International",Vevo R&B
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
+#EXTINF:-1 tvg-logo="" group-title="Music International",Vevo Latino
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce911-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7c08002-33dc-40eb-8b3c-28a20a838cdb
+#EXTINF:-1 tvg-logo="" group-title="Music International",MTV Yo!
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
+#EXTINF:-1 tvg-logo="" group-title="Music International",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",PMC (UAE)
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",PMC Royale (UAE)
+https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",Kral Pop (Turkey)
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",Pop World TV
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",bridge tv deluxe (RU)
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",bridge Hits (RU)
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",MusicBox Gold (RU)
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",Mooz Hits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",Atomic TV (Romania)
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",New KPOP 
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Music International",m-plus 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music International",trace-uk
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",trace-latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",trace-brazil 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazil/encrypted.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music International",4acetv
+https://dr2t9f8nivbc6.cloudfront.net/hls/UFZW6RY/m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",4acetv-afrobeat 
+https://dr2t9f8nivbc6.cloudfront.net/hls/AILV4RA/m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",4acetv-classic 
+https://dr2t9f8nivbc6.cloudfront.net/hls/3RVQZFI/m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",4acetv-rnb 
+https://dr2t9f8nivbc6.cloudfront.net/hls/JM3WP5Q/m.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music International",FEVAMusic
+https://dmecgxuzr2ywk.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVAMusic/417.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",surf-roots-tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music International",la-bocina-latina
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music International",MTV New
+https://streamer1.nexgen.bz/MTV/index.m3u8
+
+
+
+
+
+
+
+
