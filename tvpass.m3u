@@ -25,7 +25,7 @@ http://origin.thetvapp.to/hls/AmericanHeroesChannel/index.m3u8
 http://origin.thetvapp.to/hls/AnimalPlanetEast/index.m3u8
 #EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="Live",BBC America East
 http://origin.thetvapp.to/hls/BBCAmericaEast/index.m3u8
-#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="Live",BBC News North America HD
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="News",BBC News North America HD
 http://origin.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8
 #EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" group-title="Live",BET Eastern Feed
 http://origin.thetvapp.to/hls/BETEast/index.m3u8
@@ -57,7 +57,7 @@ http://origin.thetvapp.to/hls/CinemaxEast/index.m3u8
 http://origin.thetvapp.to/hls/CMTEast/index.m3u8
 #EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA" group-title="Live",CNBC USA
 http://origin.thetvapp.to/hls/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="Live",CNN US
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="News",CNN US
 http://origin.thetvapp.to/hls/CNN/index.m3u8
 #EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" group-title="Live",Comedy Central (US) Eastern Feed
 http://origin.thetvapp.to/hls/ComedyCentralEast/index.m3u8
