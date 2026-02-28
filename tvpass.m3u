@@ -21,7 +21,7 @@ http://origin.thetvapp.to/hls/altitude-sports-denver/index.m3u8
 http://origin.thetvapp.to/hls/AMCEast/index.m3u8
 #EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" group-title="Live",American Heroes Channel
 http://origin.thetvapp.to/hls/AmericanHeroesChannel/index.m3u8
-#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="Live",Animal Planet US East
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="Documentary",Animal Planet US East
 http://origin.thetvapp.to/hls/AnimalPlanetEast/index.m3u8
 #EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="Live",BBC America East
 http://origin.thetvapp.to/hls/BBCAmericaEast/index.m3u8
@@ -69,11 +69,11 @@ http://origin.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/index.m3u8
 http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/index.m3u8
 #EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America" group-title="Live",Destination America
 http://origin.thetvapp.to/hls/DestinationAmerica/index.m3u8
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Live",Discovery Channel (US) Eastern Feed
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary",Discovery Channel (US) Eastern Feed
 http://origin.thetvapp.to/hls/DiscoveryChannelEast/index.m3u8
-#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="Live",Discovery Family Channel
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="Documentary",Discovery Family Channel
 http://origin.thetvapp.to/hls/DiscoveryFamily/index.m3u8
-#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="Live",Discovery Life Channel
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="Documentary",Discovery Life Channel
 http://origin.thetvapp.to/hls/DiscoveryLife/index.m3u8
 #EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" group-title="Live",Disney Eastern Feed
 http://origin.thetvapp.to/hls/DisneyChannelEast/index.m3u8
@@ -165,31 +165,31 @@ http://origin.thetvapp.to/hls/HallmarkChannelEast/index.m3u8
 http://origin.thetvapp.to/hls/HallmarkDrama/index.m3u8
 #EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD" group-title="Live",Hallmark Mystery Eastern HD
 http://origin.thetvapp.to/hls/HallmarkMoviesMysteriesEast/index.m3u8
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed" group-title="Live",HBO 2 Eastern Feed
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed" group-title="Movie",HBO 2 Eastern Feed
 http://origin.thetvapp.to/hls/HBO2East/index.m3u8
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East" group-title="Live",HBO Comedy HD East
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East" group-title="Movie",HBO Comedy HD East
 http://origin.thetvapp.to/hls/HBOComedyEast/index.m3u8
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed" group-title="Live",HBO Eastern Feed
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed" group-title="Movie",HBO Eastern Feed
 http://origin.thetvapp.to/hls/HBOEast/index.m3u8
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed" group-title="Live",HBO Family Eastern Feed
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed" group-title="Movie",HBO Family Eastern Feed
 http://origin.thetvapp.to/hls/HBOFamilyEast/index.m3u8
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern" group-title="Live",HBO Signature (HBO 3) Eastern
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern" group-title="Movie",HBO Signature (HBO 3) Eastern
 http://origin.thetvapp.to/hls/HBOSignatureEast/index.m3u8
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East" group-title="Live",HBO Zone HD East
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East" group-title="Movie",HBO Zone HD East
 http://origin.thetvapp.to/hls/HBOZoneEast/index.m3u8
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="Live",HGTV USA Eastern Feed
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="Documentary",HGTV USA Eastern Feed
 http://origin.thetvapp.to/hls/HGTVEast/index.m3u8
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Live",History Channel US Eastern Feed
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Documentary",History Channel US Eastern Feed
 http://origin.thetvapp.to/hls/HistoryEast/index.m3u8
 #EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="Live",HLN
 http://origin.thetvapp.to/hls/HLN/index.m3u8
 #EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US" group-title="Live",Independent Film Channel US
 http://origin.thetvapp.to/hls/IFCEast/index.m3u8
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="Live",Investigation Discovery USA Eastern
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="Documentary",Investigation Discovery USA Eastern
 http://origin.thetvapp.to/hls/InvestigationDiscoveryEast/index.m3u8
 #EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" group-title="Live",ION Eastern Feed
 http://origin.thetvapp.to/hls/IONTVEast/index.m3u8
-#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" group-title="Live",Lifetime Movies East
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" group-title="Movie",Lifetime Movies East
 http://origin.thetvapp.to/hls/LifetimeMoviesEast/index.m3u8
 #EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" group-title="Live",Lifetime Network US Eastern Feed
 http://origin.thetvapp.to/hls/LifetimeEast/index.m3u8
@@ -211,7 +211,7 @@ http://origin.thetvapp.to/hls/monumental-sports-network/index.m3u8
 http://origin.thetvapp.to/hls/MoreMaxEast/index.m3u8
 #EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD" group-title="Live",Motor Trend HD
 http://origin.thetvapp.to/hls/Motortrend/index.m3u8
-#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" group-title="Live",MovieMax (Max 6) East
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" group-title="Movie",MovieMax (Max 6) East
 http://origin.thetvapp.to/hls/MovieMaxEast/index.m3u8
 #EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens" group-title="Live",MSG Madison Square Gardens
 http://origin.thetvapp.to/hls/msg-madison-square-gardens/index.m3u8
@@ -221,11 +221,11 @@ http://origin.thetvapp.to/hls/msg-plus/index.m3u8
 http://origin.thetvapp.to/hls/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East" group-title="Live",MTV 2 East
 http://origin.thetvapp.to/hls/mtv-2-east/index.m3u8
-#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" group-title="Live",MTV USA Eastern Feed
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" group-title="Music",MTV USA Eastern Feed
 http://origin.thetvapp.to/hls/MTVEast/index.m3u8
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Live",National Geographic US Eastern
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Documentary",National Geographic US Eastern
 http://origin.thetvapp.to/hls/NationalGeographicEast/index.m3u8
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Live",National Geographic Wild
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Documentary",National Geographic Wild
 http://origin.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8
 #EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA" group-title="Live",NBA TV USA
 http://origin.thetvapp.to/hls/NBATV/index.m3u8
@@ -267,7 +267,7 @@ http://origin.thetvapp.to/hls/WNBCDT1/index.m3u8
 http://origin.thetvapp.to/hls/WNET/index.m3u8
 #EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern" group-title="Live",Oprah Winfrey Network USA Eastern
 http://origin.thetvapp.to/hls/OWNEast/index.m3u8
-#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US" group-title="Live",Outdoor Channel US
+#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US" group-title="Documentary",Outdoor Channel US
 http://origin.thetvapp.to/hls/OutdoorChannel/index.m3u8
 #EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed" group-title="Live",Oxygen Eastern Feed
 http://origin.thetvapp.to/hls/OxygenEast/index.m3u8
@@ -303,7 +303,7 @@ http://origin.thetvapp.to/hls/sportsnet-pacific/index.m3u8
 http://origin.thetvapp.to/hls/sportsnet-pittsburgh/index.m3u8
 #EXTINF:-1 tvg-id="sportsnet-west" tvg-name="Sportsnet West" group-title="Live",Sportsnet West
 http://origin.thetvapp.to/hls/sportsnet-west/index.m3u8
-#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern" group-title="Live",Starz Eastern
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern" group-title="Movie",Starz Eastern
 http://origin.thetvapp.to/hls/StarzEast/index.m3u8
 #EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East" group-title="Live",SundanceTV USA East
 http://origin.thetvapp.to/hls/SundanceTVEast/index.m3u8
@@ -315,19 +315,19 @@ http://origin.thetvapp.to/hls/TBSEast/index.m3u8
 http://origin.thetvapp.to/hls/TeenNickEast/index.m3u8
 #EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed" group-title="Live",Telemundo Eastern Feed
 http://origin.thetvapp.to/hls/TelemundoEast/index.m3u8
-#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel" group-title="Live",The Cooking Channel
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel" group-title="Documentary",The Cooking Channel
 http://origin.thetvapp.to/hls/CookingChannel/index.m3u8
 #EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel" group-title="Live",The Tennis Channel
 http://origin.thetvapp.to/hls/TennisChannel/index.m3u8
-#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel" group-title="Live",The Weather Channel
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel" group-title="Documentary",The Weather Channel
 http://origin.thetvapp.to/hls/TheWeatherChannel/index.m3u8
-#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" group-title="Live",TLC USA Eastern
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" group-title="Documentary",TLC USA Eastern
 http://origin.thetvapp.to/hls/TLCEast/index.m3u8
 #EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed" group-title="Live",TMC (US) Eastern Feed
 http://origin.thetvapp.to/hls/TheMovieChannelEast/index.m3u8
 #EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" group-title="Live",TNT Eastern Feed
 http://origin.thetvapp.to/hls/TNTEast/index.m3u8
-#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East" group-title="Live",Travel US East
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East" group-title="Documentary",Travel US East
 http://origin.thetvapp.to/hls/TravelChannelEast/index.m3u8
 #EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern" group-title="Live",truTV USA Eastern
 http://origin.thetvapp.to/hls/truTVEast/index.m3u8
