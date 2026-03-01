@@ -29,6 +29,12 @@ http://10.16.100.206:8080/hls/asports.m3u8
 http://10.16.100.213:8080/hls/asports.m3u8
 
 
+#EXTINF:-1 group-title="English" tvg-logo="",Star Movies HD
+http://cdn.moviemazic.xyz:8083/StarMoviesHD/index.m3u8
+
+
+
+
 
 
 <===BANGLADESH===>
