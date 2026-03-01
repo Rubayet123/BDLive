@@ -30,32 +30,6 @@ http://10.16.100.213:8080/hls/asports.m3u8
 
 
 
-#EXTINF:-1 group-title="Bangla" tvg-logo="",GTV (BDIX)
-http://cdn.moviemazic.xyz:8083/live-5/tracks-v1a1/mono.m3u8?token=f49dde2e2eb73829c658f84f769e02f06c368546-80de84c3ddd9b79ef0acdc4a67d97d38-1771357117-1771346317
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="",Channel 24 (BDIX)
-http://cdn.moviemazic.xyz:8083/channel24/tracks-v1a1/mono.m3u8?token=480d8d3575cbbac579d7a9d1d7cdb0eca95034b4-43517306e55215c777575a7e34c2961c-1771357233-1771346433
-
-
-
-
-
-#EXTINF:-1 group-title="BDIX" tvg-logo="",NatGEO
-https://stream.splex.live/stream/PcdCD4mJN-SURK8kCIh9QQ/1771359650/Sony-entertainment/tracks-v1a1/mono.m3u8?expires=1771359650&md5=PcdCD4mJN-SURK8kCIh9QQ
-
-#EXTINF:-1 group-title="BDIX" tvg-logo="",NatGEO HD
-https://stream.splex.live/stream/kpUj1FchJmYbTqRye476WQ/1771359985/Nat-Geo-HD/tracks-v1a1/mono.m3u8?expires=1771359985&md5=kpUj1FchJmYbTqRye476WQ
-
-#EXTINF:-1 group-title="BDIX" tvg-logo="",Discovery
-https://stream.splex.live/stream/IA3hnr7QljxByj7KduyByA/1771359913/discovery/tracks-v1a1/mono.m3u8?expires=1771359913&md5=IA3hnr7QljxByj7KduyByA
-
-#EXTINF:-1 group-title="BDIX" tvg-logo="",BBC Earth
-https://stream.splex.live/stream/tpmFXwO3iUl8eWkkWuNnDg/1771359867/BBC-Earth/index.m3u8
-
-#EXTINF:-1 group-title="BDIX" tvg-logo="",Start Movies Select HD
-https://stream.splex.live/stream/G6jK0VYONA_daXNGLtaJwA/1771359998/star-movies/tracks-v1a1/mono.m3u8?expires=1771359998&md5=G6jK0VYONA_daXNGLtaJwA
-
-
 
 <===BANGLADESH===>
 
