@@ -142,10 +142,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 <===Music_Hindi===>
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music",9XM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a731c680-6a62-4174-bc98-186fe654724a/0.m3u8
 
-#EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="Hindi Music",9X Jalwa
+#EXTINF:-1 tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="Hindi",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
 
 
@@ -392,7 +392,7 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", CNBC Indonesia (EN) 🛜
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="English News",CNN
+#EXTINF:-1 tvg-logo=""group-title="News",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
 
@@ -410,9 +410,9 @@ http://103.229.254.25:7001/play/a0cx/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MN%2B%20HD.png"group-title="Movies",Movies Now
 http://103.182.170.32:8888/play/a01n
 
-#EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive
+#EXTINF:-1 tvg-logo="" group-title="Movies",And Prive
 http://202.70.146.135:8000/play/a05y/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
+#EXTINF:-1 tvg-logo="" group-title="Movies",And Prive HD
 http://103.229.254.25:7001/play/a03f/index.m3u8
 
 
