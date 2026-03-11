@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ekattor TV",
+    "channel_id": "UCtqvtAVmad5zywaziN6CbfA",
+    "category": "Bangla",
+    "logo": "https://yt3.googleusercontent.com/M8Rqad6_uN86mMSvd9KGkE5G2mrVAgvfTV-VCsQb6jhfF5hEbcQCEJiInih4wb2fMQ_RG7Ku=s120-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "Somoy TV",
+    "channel_id": "UCNUFterLJ9vpFZZ0try7sLA",
+    "category": "Bangla",
+    "logo": "https://yt3.googleusercontent.com/HIVp56M09fDcVPKGpRXkl47xJcG7JGV5Mwn8E_7TlwmPgjgg1MQ7t_oxiy4xkmgo5fmWxilY3yU=s120-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "Al Jazeera English",
+    "channel_id": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+    "category": "News",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_n3_3_y_Q=s176-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "BBC News",
+    "channel_id": "UC16niRr50-MSBwiO3YDb3RA",
+    "category": "News",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_m_3_w=s176-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "name": "Sky News",
+    "channel_id": "UChmoF_hJovfW6ov3l6f3y-g",
+    "category": "News",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_n2_w=s176-c-k-c0x00ffffff-no-rj"
+  }
+]
