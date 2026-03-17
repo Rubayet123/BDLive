@@ -44,16 +44,6 @@ http://97.74.103.44:8089/load/9x_jalwa/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Movie" tvg-logo="",&flix HD
-http://97.74.103.44:8089/nimble_live/andflix/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="",&prive HD
-http://97.74.103.44:8089/nimble_live/andprive/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="",Skymovie Select
-http://97.74.103.44:8089/load/skymovselect/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="",Skymovie Crime
-http://97.74.103.44:8089/load/skymovie_crime/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo=""group-title="Documentary",Natgeo_wild
 http://97.74.103.44:8089/load/natgeo_wild/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Documentary",Animal_planet
@@ -64,6 +54,22 @@ http://97.74.103.44:8089/load/discovery_history/playlist.m3u8
 http://97.74.103.44:8089/nimble_live/history/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Documentary",TLC-HD
 http://97.74.103.44:8089/nimble_live/tlchd/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="",&flix HD
+http://97.74.103.44:8089/nimble_live/andflix/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="",&prive HD
+http://97.74.103.44:8089/nimble_live/andprive/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="",Skymovie Select
+http://97.74.103.44:8089/load/skymovselect/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="",Skymovie Crime
+http://97.74.103.44:8089/load/skymovie_crime/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="",Star Movies (BDIX)
+http://172.16.60.2:8088/501/index.m3u8
+
+
 
 
 
