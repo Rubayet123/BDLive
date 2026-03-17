@@ -6,10 +6,8 @@
 <===================================Channel-List===============================================>
 #EXTINF:-1 group-title="Sports" tvg-logo="",Tsports (ICC)
 http://10.16.100.202:8080/hls/tsports.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="",Tsports2 (ICC)
 http://10.16.100.206:8080/hls/tsports.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="",Tsports3 (ICC)
 http://10.16.100.213:8080/hls/tsports.m3u8
 
@@ -28,8 +26,44 @@ http://10.16.100.206:8080/hls/asports.m3u8
 http://10.16.100.213:8080/hls/asports.m3u8
 
 
-#EXTINF:-1 group-title="English" tvg-logo="",Star Movies HD
-http://cdn.moviemazic.xyz:8083/StarMoviesHD/index.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="",ZeeCinema_HD
+http://97.74.103.44:8089/amrbd/ZEE-CINEMA/playlist.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="",&Picture_HD
+http://97.74.103.44:8089/amrbd/AND-PICTURE/playlist.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="",Starplus_HD
+http://97.74.103.44:8089/load/STAR%20PLUS%20HD/playlist.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="",Sony_HD
+http://97.74.103.44:8089/amrbd/SONY-ENT/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Music" tvg-logo="",9xm HD
+http://97.74.103.44:8089/load/9xm/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="",9x_jalwa HD
+http://97.74.103.44:8089/load/9x_jalwa/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="",&flix HD
+http://97.74.103.44:8089/nimble_live/andflix/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="",&prive HD
+http://97.74.103.44:8089/nimble_live/andprive/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="",Skymovie Select
+http://97.74.103.44:8089/load/skymovselect/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="",Skymovie Crime
+http://97.74.103.44:8089/load/skymovie_crime/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="Documentary",Natgeo_wild
+http://97.74.103.44:8089/load/natgeo_wild/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Documentary",Animal_planet
+http://97.74.103.44:8089/load/animal_planet_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Documentary",Discovery History
+http://97.74.103.44:8089/load/discovery_history/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Documentary",History
+http://97.74.103.44:8089/nimble_live/history/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Documentary",TLC-HD
+http://97.74.103.44:8089/nimble_live/tlchd/playlist.m3u8
 
 
 
