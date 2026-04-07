@@ -4,6 +4,22 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/all/epg.xml.gz"
 
 
+<=========== CHINA ===========>
+
+#EXTINF:-1 group-title="World🌍",astro-QJ (China)
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 group-title="World🌍",astroAec (China)
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 group-title="World🌍",astroAod (China)
+http://php.jdshipin.com/smt.php?id=Aodhd
+#EXTINF:-1 group-title="World🌍",astro欢喜 (China)
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 group-title="World🌍",astro爱奇艺 (China)
+http://php.jdshipin.com/smt.php?id=Qiyi
+
+
+
+
 <=========== Pakistan ===========>
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Pakistan",JooMusic (720p)
