@@ -37,6 +37,7 @@ http://97.74.103.44:8089/load/STAR%20PLUS%20HD/playlist.m3u8
 http://97.74.103.44:8089/amrbd/SONY-ENT/playlist.m3u8
 
 
+
 #EXTINF:-1 group-title="Music" tvg-logo="",9xm HD
 http://97.74.103.44:8089/load/9xm/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="",9x_jalwa HD
@@ -181,11 +182,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 
 
+<===Music===>
 
-
-
-
-<===Music_Hindi===>
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXP4reG39bfBrOl13wJT9lOLoi-bwk6zYhzA&s"group-title="Music",BXTV
+https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Music",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a731c680-6a62-4174-bc98-186fe654724a/0.m3u8
@@ -219,6 +219,32 @@ http://origin.thetvapp.to/hls/mtv-2-east/index.m3u8
 http://origin.thetvapp.to/hls/MTVEast/index.m3u8
 #EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" group-title="Music",VH1 Eastern Feed
 http://origin.thetvapp.to/hls/VH1East/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music", 30A TV
+https://30a-tv.com/music.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music", KISS TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music", KroneHit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music", LFM TV
+https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1726418808_b800000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music", Impact TV
+https://online.tvimpact.live/hls/dancetv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music", Retro CZ
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music", VIVA Africa
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music", Avang TV
+https://hls.avang.live/hls/stream.m3u8
+
+
 
 
 
