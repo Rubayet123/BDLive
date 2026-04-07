@@ -529,20 +529,24 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", CNBC Indonesia (EN) 🛜
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="News",CNN
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NcysrWH.png" group-title="News",TV5Monde Asie
+https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLIczfF.png" tvg-id="StarTV.mn@SD",016 Star TV
+https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2TPZcF.png" group-title="News", Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="News",CNN US
+http://origin.thetvapp.to/hls/CNN/index.m3u8
 #EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="News",BBC News North America HD
 http://origin.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8
 #EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA" group-title="News",Bloomberg TV USA
 http://origin.thetvapp.to/hls/BloombergTV/index.m3u8
 #EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA" group-title="News",CNBC USA
 http://origin.thetvapp.to/hls/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="News",CNN US
-http://origin.thetvapp.to/hls/CNN/index.m3u8
 #EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" group-title="News",C-SPAN
 http://origin.thetvapp.to/hls/CSPAN/index.m3u8
 #EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" group-title="News",C-SPAN 2
