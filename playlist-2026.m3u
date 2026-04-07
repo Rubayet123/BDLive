@@ -244,6 +244,15 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music", Avang TV
 https://hls.avang.live/hls/stream.m3u8
 
+#EXTINF:-1 group-title="Music",AT_KroneHit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
+#EXTINF:-1 group-title="Music",Ocko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Music",Ocko Star
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Music",Ocko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
 
 
 
@@ -810,6 +819,25 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 group-title="Kids-Anime"https://wacth.tv"tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png",ANIMAX JP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+
+
+
+
+
+===International===
+
+#EXTINF:-1 group-title="World🌍",astro-QJ (China)
+http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 group-title="World🌍",astroAec (China)
+http://php.jdshipin.com/smt.php?id=AEC
+#EXTINF:-1 group-title="World🌍",astroAod (China)
+http://php.jdshipin.com/smt.php?id=Aodhd
+#EXTINF:-1 group-title="World🌍",astro欢喜 (China)
+http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 group-title="World🌍",astro爱奇艺 (China)
+http://php.jdshipin.com/smt.php?id=Qiyi
+
+
 
 
 
