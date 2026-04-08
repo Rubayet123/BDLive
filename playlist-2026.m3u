@@ -6,8 +6,16 @@
 <===================================Channel-List===============================================>
 
 
-
 <===BANGLADESH===>
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Ekhon TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Star News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -231,22 +239,20 @@ https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 
 ===Documentary===
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Documentary",Discovery Bangla
-http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Documentary",Discovery Asia
+https://cdn3.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Documentary",TLC HD
-http://103.175.73.12:8080/live/138/138_0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Documentary", CGTN China
+https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Documentary",Nat Geo HD
-http://103.229.254.25:7001/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Documentary",CGTN Docmentary
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Documentary",Popular Science
+https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg13231-actvefast-powder-sportstribalemea/3500df53-3348-11f1-8f54-82d939e4943d/4/1280x720_3572008/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png" group-title="Documentary",History TV 18
 http://103.229.254.25:7001/play/a02z/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Documentary",CGTN Docment
-https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
-
-
 
 #EXTINF:-1 tvg-id="IN17000109O" tvg-chno="1165" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000109O_20241024T054038SQUARE.png" group-title="Documentary",Epic
 https://jmp2.uk/stvp-IN17000109O
@@ -342,6 +348,12 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 
 #EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="News",BBC News
 http://origin.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="",PressTV(Iran)
+https://live.presstv.ir/hls/presstv.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="",Global News (Canada)
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="News",Reuters TV (1080p)
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
