@@ -150,10 +150,20 @@ http://10.20.30.40:8088/502/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Movies",HBO2
 https://cdn01.medialive.one:2096/HBO2FHD/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770006376-4778463.png" group-title="Movies",originals
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770006615-16062342.png" group-title="Movies",cineedge
+https://nomawnoijl.gpcdn.net/akash/cineedge/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770298885-90798507.png" group-title="Movies",CRIMES
 https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770006258-80342289.png" group-title="Movies",SCREEM
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770006500-46136200.png" group-title="Movies",uniques
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770006675-50718731.png" group-title="Movies",superrix
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/SkyMoviesSelectHD.png" group-title="Movies",Skymovie Select
 http://97.74.103.44:8089/load/skymovselect/playlist.m3u8
