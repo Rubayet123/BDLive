@@ -133,7 +133,7 @@ http://172.16.60.2:8088/501/index.m3u8
 http://172.16.60.2:8088/503/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Movies select(BDIX)
 http://10.20.30.40:8088/502/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Sky_Cinema_Select?file=SkyMoviesSelectHD.png" group-title="Movies",Skymovie Select
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/SkyMoviesSelectHD.png" group-title="Movies",Skymovie Select
 http://97.74.103.44:8089/load/skymovselect/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sky_Crime_DE_Logo_2021_%28TV_channel%29.svg/330px-Sky_Crime_DE_Logo_2021_%28TV_channel%29.svg.png" group-title="Movies",Skymovie Crime
 http://97.74.103.44:8089/load/skymovie_crime/playlist.m3u8
