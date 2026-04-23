@@ -45,6 +45,8 @@ http://10.16.100.213:8080/hls/asports.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"group-title="Bangla BDIX",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/250px-Logo_of_Deepto_TV.svg.png" group-title="Bangla BDIX",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/330px-Jamuna_TV_logo.svg.png" group-title="Bangla BDIX",Jamuna
 http://172.16.60.2:8088/209/index.m3u8
@@ -76,9 +78,8 @@ http://10.20.30.40:8088/210/index.m3u8
 http://10.20.30.40:8088/211/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="Bangla BDIX",Bangla vision
 http://10.20.30.40:8088/212/index.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SA_TV_Bangladesh_Logo.svg/250px-SA_TV_Bangladesh_Logo.svg.png" group-title="Bangla BDIX",SATV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="inbangla",Zee Bangla HD
