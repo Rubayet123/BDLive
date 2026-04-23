@@ -152,6 +152,8 @@ https://cdn01.medialive.one:2096/HBO2FHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770298885-90798507.png" group-title="Movies",CRIMES
 https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1770006258-80342289.png" group-title="Movies",SCREEM
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/SkyMoviesSelectHD.png" group-title="Movies",Skymovie Select
 http://97.74.103.44:8089/load/skymovselect/playlist.m3u8
