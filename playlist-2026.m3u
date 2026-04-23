@@ -99,9 +99,6 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" group-title="Music",CMT US Eastern Feed
-http://origin.thetvapp.to/hls/CMTEast/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="Music", KISS TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
@@ -157,32 +154,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/130.jpg" group-title="Kids",ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" group-title="Kids",Boomerang
-http://origin.thetvapp.to/hls/Boomerang/index.m3u8
-#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" group-title="Kids",Cartoon Network USA Eastern Feed
-http://origin.thetvapp.to/hls/CartoonNetworkEast/index.m3u8
-#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" group-title="Kids",Discovery Family Channel
-http://origin.thetvapp.to/hls/DiscoveryFamily/index.m3u8
-#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" group-title="Kids",Disney Eastern Feed
-http://origin.thetvapp.to/hls/DisneyChannelEast/index.m3u8
-#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" group-title="Kids",Disney Junior USA East
-http://origin.thetvapp.to/hls/DisneyJuniorEast/index.m3u8
-#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" group-title="Kids",Disney XD USA Eastern Feed
-http://origin.thetvapp.to/hls/DisneyXDEast/index.m3u8
-#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" group-title="Kids",MeTV Toons (WJLP2) New Jersey
-http://origin.thetvapp.to/hls/metv-toons/index.m3u8
-#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East" group-title="Kids",Nick Jr. East
-http://origin.thetvapp.to/hls/NickJrEast/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" group-title="Kids",Nickelodeon USA East Feed
-http://origin.thetvapp.to/hls/NickelodeonEast/index.m3u8
-#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East" group-title="Kids",Nicktoons East
-http://origin.thetvapp.to/hls/NicktoonsEast/index.m3u8
-#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern" group-title="Kids",TeenNick Eastern
-http://origin.thetvapp.to/hls/TeenNickEast/index.m3u8
-#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids" group-title="Kids",Universal Kids
-http://origin.thetvapp.to/hls/UniversalKidsEast/index.m3u8
 
 
 
@@ -286,49 +257,6 @@ https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" group-title="Documentary",American Heroes Channel
-http://origin.thetvapp.to/hls/AmericanHeroesChannel/index.m3u8
-#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" group-title="Documentary",Animal Planet US East
-http://origin.thetvapp.to/hls/AnimalPlanetEast/index.m3u8
-#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD" group-title="Documentary",Crime & Investigation Network USA HD
-http://origin.thetvapp.to/hls/CrimePlusInvestigation/index.m3u8
-#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America" group-title="Documentary",Destination America
-http://origin.thetvapp.to/hls/DestinationAmerica/index.m3u8
-#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" group-title="Documentary",Discovery Channel (US) Eastern Feed
-http://origin.thetvapp.to/hls/DiscoveryChannelEast/index.m3u8
-#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" group-title="Documentary",Discovery Life Channel
-http://origin.thetvapp.to/hls/DiscoveryLife/index.m3u8
-#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed" group-title="Documentary",Food Network USA Eastern Feed
-http://origin.thetvapp.to/hls/FoodNetworkEast/index.m3u8
-#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern" group-title="Documentary",FYI USA Eastern
-http://origin.thetvapp.to/hls/FYIEast/index.m3u8
-#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" group-title="Documentary",HGTV USA Eastern Feed
-http://origin.thetvapp.to/hls/HGTVEast/index.m3u8
-#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" group-title="Documentary",History Channel US Eastern Feed
-http://origin.thetvapp.to/hls/HistoryEast/index.m3u8
-#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" group-title="Documentary",Investigation Discovery USA Eastern
-http://origin.thetvapp.to/hls/InvestigationDiscoveryEast/index.m3u8
-#EXTINF:-1 tvg-id="motor-trend-hd" tvg-name="Motor Trend HD" group-title="Documentary",Motor Trend HD
-http://origin.thetvapp.to/hls/Motortrend/index.m3u8
-#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" group-title="Documentary",National Geographic US Eastern
-http://origin.thetvapp.to/hls/NationalGeographicEast/index.m3u8
-#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" group-title="Documentary",National Geographic Wild
-http://origin.thetvapp.to/hls/NationalGeographicWildEast/index.m3u8
-#EXTINF:-1 tvg-id="outdoor-channel-us" tvg-name="Outdoor Channel US" group-title="Documentary",Outdoor Channel US
-http://origin.thetvapp.to/hls/OutdoorChannel/index.m3u8
-#EXTINF:-1 tvg-id="science" tvg-name="Science" group-title="Documentary",Science
-http://origin.thetvapp.to/hls/Science/index.m3u8
-#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel" group-title="Documentary",The Cooking Channel
-http://origin.thetvapp.to/hls/CookingChannel/index.m3u8
-#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel" group-title="Documentary",The Weather Channel
-http://origin.thetvapp.to/hls/TheWeatherChannel/index.m3u8
-#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" group-title="Documentary",TLC USA Eastern
-http://origin.thetvapp.to/hls/TLCEast/index.m3u8
-#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East" group-title="Documentary",Travel US East
-http://origin.thetvapp.to/hls/TravelChannelEast/index.m3u8
-#EXTINF:-1 tvg-id="vice" tvg-name="VICE" group-title="Documentary",VICE
-http://origin.thetvapp.to/hls/VICETV/index.m3u8
-
 
 
 
@@ -345,9 +273,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line-thumbnail.png"group-title="News",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="News",BBC News
-http://origin.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="",PressTV(Iran)
 https://live.presstv.ir/hls/presstv.m3u8
@@ -414,145 +339,18 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US" group-title="News",CNN US
-http://origin.thetvapp.to/hls/CNN/index.m3u8
-#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD" group-title="News",BBC News North America HD
-http://origin.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8
-#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA" group-title="News",Bloomberg TV USA
-http://origin.thetvapp.to/hls/BloombergTV/index.m3u8
-#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA" group-title="News",CNBC USA
-http://origin.thetvapp.to/hls/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN" group-title="News",C-SPAN
-http://origin.thetvapp.to/hls/CSPAN/index.m3u8
-#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" group-title="News",C-SPAN 2
-http://origin.thetvapp.to/hls/CSPAN2/index.m3u8
-#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business" group-title="News",Fox Business
-http://origin.thetvapp.to/hls/FoxBusiness/index.m3u8
-#EXTINF:-1 tvg-id="fox-news" tvg-name="Fox News" group-title="News",Fox News
-http://origin.thetvapp.to/hls/FoxNewsChannel/index.m3u8
-#EXTINF:-1 tvg-id="hln" tvg-name="HLN" group-title="News",HLN
-http://origin.thetvapp.to/hls/HLN/index.m3u8
-#EXTINF:-1 tvg-id="msnbc-usa" tvg-name="MSNBC USA" group-title="News",MSNBC USA
-http://origin.thetvapp.to/hls/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="NewsMax TV" group-title="News",NewsMax TV
-http://origin.thetvapp.to/hls/NewsmaxTV/index.m3u8
-
-
-
-
 
 
 ===Entertainment===
-#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed" group-title="Entertainment",MTV USA
-http://origin.thetvapp.to/hls/MTVEast/index.m3u8
-#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East" group-title="Entertainment",MTV 2 East
-http://origin.thetvapp.to/hls/mtv-2-east/index.m3u8
-#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" group-title="Entertainment",VH1
-http://origin.thetvapp.to/hls/VH1East/index.m3u8
-#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed" group-title="Entertainment",FUSE TV
-http://origin.thetvapp.to/hls/FuseEast/index.m3u8
 
-#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" group-title="Entertainment",A&E US Eastern Feed
-http://origin.thetvapp.to/hls/AEEast/index.m3u8
-#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" group-title="Entertainment",AMC Eastern Feed
-http://origin.thetvapp.to/hls/AMCEast/index.m3u8
-#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" group-title="Entertainment",BBC America East
-http://origin.thetvapp.to/hls/BBCAmericaEast/index.m3u8
-#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" group-title="Entertainment",BET Eastern Feed
-http://origin.thetvapp.to/hls/BETEast/index.m3u8
-#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her" group-title="Entertainment",BET Her
-http://origin.thetvapp.to/hls/BETHerEast/index.m3u8
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" group-title="Entertainment",Bravo USA Eastern Feed
-http://origin.thetvapp.to/hls/BravoEast/index.m3u8
-#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" group-title="Entertainment",Comedy Central (US) Eastern Feed
-http://origin.thetvapp.to/hls/ComedyCentralEast/index.m3u8
-#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed" group-title="Entertainment",E! Entertainment USA Eastern Feed
-http://origin.thetvapp.to/hls/EEast/index.m3u8
-#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed" group-title="Entertainment",Freeform East Feed
-http://origin.thetvapp.to/hls/FreeformEast/index.m3u8
-#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast" group-title="Entertainment",FX Networks East Coast
-http://origin.thetvapp.to/hls/FXEast/index.m3u8
-#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern" group-title="Entertainment",FXX USA Eastern
-http://origin.thetvapp.to/hls/FXXEast/index.m3u8
-#EXTINF:-1 tvg-id="game-show-network-east" tvg-name="Game Show Network East" group-title="Entertainment",Game Show Network East
-http://origin.thetvapp.to/hls/game-show-network-east/index.m3u8
-#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed" group-title="Entertainment",Hallmark Eastern Feed
-http://origin.thetvapp.to/hls/HallmarkChannelEast/index.m3u8
-#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD" group-title="Entertainment",Hallmark Family HD
-http://origin.thetvapp.to/hls/HallmarkDrama/index.m3u8
-#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" group-title="Entertainment",ION Eastern Feed
-http://origin.thetvapp.to/hls/IONTVEast/index.m3u8
-#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" group-title="Entertainment",Lifetime Network US Eastern Feed
-http://origin.thetvapp.to/hls/LifetimeEast/index.m3u8
-#EXTINF:-1 tvg-id="logo-east" tvg-name="LOGO East" group-title="Entertainment",LOGO East
-http://origin.thetvapp.to/hls/LogoEast/index.m3u8
-#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern" group-title="Entertainment",Oprah Winfrey Network USA Eastern
-http://origin.thetvapp.to/hls/OWNEast/index.m3u8
-#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed" group-title="Entertainment",Oxygen Eastern Feed
-http://origin.thetvapp.to/hls/OxygenEast/index.m3u8
-#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel" group-title="Entertainment",ReelzChannel
-http://origin.thetvapp.to/hls/Reelz/index.m3u8
-#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East" group-title="Entertainment",SundanceTV USA East
-http://origin.thetvapp.to/hls/SundanceTVEast/index.m3u8
-#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed" group-title="Entertainment",Syfy Eastern Feed
-http://origin.thetvapp.to/hls/SyfyEast/index.m3u8
-#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East" group-title="Entertainment",TBS East
-http://origin.thetvapp.to/hls/TBSEast/index.m3u8
-#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" group-title="Entertainment",TNT Eastern Feed
-http://origin.thetvapp.to/hls/TNTEast/index.m3u8
-#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern" group-title="Entertainment",truTV USA Eastern
-http://origin.thetvapp.to/hls/truTVEast/index.m3u8
-#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" group-title="Entertainment",TV Land Eastern
-http://origin.thetvapp.to/hls/tv-land-eastern/index.m3u8
-#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One" group-title="Entertainment",TV One
-http://origin.thetvapp.to/hls/TVOne/index.m3u8
-#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed" group-title="Entertainment",USA Network East Feed
-http://origin.thetvapp.to/hls/USANetworkEast/index.m3u8
-#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern" group-title="Entertainment",WE (Women's Entertainment) Eastern
-http://origin.thetvapp.to/hls/WeTVEast/index.m3u8
+#EXTINF:-1 tvg-id="Baywatch.us@US" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="Movies",Baywatch
+https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
 
 
 
 
 
 ===Movies===
-
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed" group-title="Movies",HBO 2 Eastern Feed
-http://origin.thetvapp.to/hls/HBO2East/index.m3u8
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East" group-title="Movies",HBO Comedy HD East
-http://origin.thetvapp.to/hls/HBOComedyEast/index.m3u8
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed" group-title="Movies",HBO Eastern Feed
-http://origin.thetvapp.to/hls/HBOEast/index.m3u8
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed" group-title="Movies",HBO Family Eastern Feed
-http://origin.thetvapp.to/hls/HBOFamilyEast/index.m3u8
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern" group-title="Movies",HBO Signature (HBO 3) Eastern
-http://origin.thetvapp.to/hls/HBOSignatureEast/index.m3u8
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East" group-title="Movies",HBO Zone HD East
-http://origin.thetvapp.to/hls/HBOZoneEast/index.m3u8
-#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed" group-title="Movies",Cinemax Eastern Feed
-http://origin.thetvapp.to/hls/CinemaxEast/index.m3u8
-#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" group-title="Movies",FX Movie Channel
-http://origin.thetvapp.to/hls/FXMovieChannel/index.m3u8
-#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US" group-title="Movies",Independent Film Channel US
-http://origin.thetvapp.to/hls/IFCEast/index.m3u8
-#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" group-title="Movies",Lifetime Movies East
-http://origin.thetvapp.to/hls/LifetimeMoviesEast/index.m3u8
-#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern" group-title="Movies",MoreMax Eastern
-http://origin.thetvapp.to/hls/MoreMaxEast/index.m3u8
-#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" group-title="Movies",MovieMax (Max 6) East
-http://origin.thetvapp.to/hls/MovieMaxEast/index.m3u8
-#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern" group-title="Movies",Showtime 2 Eastern
-http://origin.thetvapp.to/hls/Showtime2East/index.m3u8
-#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed" group-title="Movies",Showtime Eastern Feed
-http://origin.thetvapp.to/hls/ShowtimeEast/index.m3u8
-#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern" group-title="Movies",Starz Eastern
-http://origin.thetvapp.to/hls/StarzEast/index.m3u8
-#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed" group-title="Movies",TMC (US) Eastern Feed
-http://origin.thetvapp.to/hls/TheMovieChannelEast/index.m3u8
-#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA" group-title="Movies",Turner Classic Movies USA
-http://origin.thetvapp.to/hls/TCMEast/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" group-title="Movies",Colors Infinity HD
 http://103.229.254.25:7001/play/a0du/index.m3u8
@@ -567,7 +365,6 @@ http://103.182.170.32:8888/play/a01n
 http://202.70.146.135:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",And Prive HD
 http://103.229.254.25:7001/play/a03f/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Action Movies UK (1080p)
@@ -655,11 +452,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefami
 
 
 
-#EXTINF:-1 tvg-id="Baywatch.us@US" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="Movies",Baywatch
-https://amg00145-fremantlemedian-baywatch-samsungau-gtsd6.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungau/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movies",Star Movies HD (1080p)
 http://103.178.78.151:7505/play/a1ge/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
@@ -670,13 +462,6 @@ http://103.167.255.18:8085/play/a0oj/index.m3u8
 http://103.178.78.151:7505/play/a12t/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z4rYe8p.png" group-title="Movies",MovieBox
-https://cdn4.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5A9HhBh.jpeg" group-title="Movies",AsianBox
-https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
-
-
 
 
 
@@ -685,8 +470,20 @@ https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NcysrWH.png" group-title="International",TV5Monde Asie
 https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLIczfF.png" group-title="International",016 Star TV
-https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
