@@ -39,6 +39,11 @@ http://10.16.100.202:8080/hls/asports.m3u8
 http://10.16.100.206:8080/hls/asports.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",Asports 3 (ICC)
 http://10.16.100.213:8080/hls/asports.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nq8IMH0YPH-8cJWm8bd0kX6JyXQgH5rsgC6OmaaIeLZUiCGP33fSRx-o_5iB39v1ke-CUrvmVw=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla BDIX",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/330px-Jamuna_TV_logo.svg.png" group-title="Bangla BDIX",Jamuna
 http://172.16.60.2:8088/209/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i54AQic.png" group-title="Bangla BDIX",Somoy
@@ -69,6 +74,11 @@ http://10.20.30.40:8088/210/index.m3u8
 http://10.20.30.40:8088/211/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="Bangla BDIX",Bangla vision
 http://10.20.30.40:8088/212/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="inbangla",Zee Bangla HD
 http://172.16.60.2:8088/301/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143819_ld_h15_aa.png?lock=720x540" group-title="inbangla",Star Jalsha HD
