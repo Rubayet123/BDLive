@@ -2,20 +2,26 @@
 
 <==Akash_Go==>
 
-#EXTINF:-1 tvg-id="2" tvg-name="Somoy TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" tvg-chno="2" group-title="Bangla BDIX",Somoy TV▶️
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="Star News" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" tvg-chno="13" group-title="Bangla BDIX",Star News▶️
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="Ekhon TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189283848.png" tvg-chno="23" group-title="Bangla BDIX",Ekhon TV▶️
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="Jamuna TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" tvg-chno="3" group-title="Bangla BDIX",Jamuna TV▶️
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Somoy TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" tvg-chno="2" group-title="Bangla BDIX",Somoy TV▶️
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="Ekattor HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" tvg-chno="6" group-title="Bangla BDIX",Ekattor HD▶️
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="DBC News HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" tvg-chno="4" group-title="Bangla BDIX",DBC News HD▶️
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="Independent TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png" tvg-chno="5" group-title="Bangla BDIX",Independent TV▶️
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="Ekattor HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" tvg-chno="6" group-title="Bangla BDIX",Ekattor HD▶️
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="Channel 24 HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" tvg-chno="7" group-title="Bangla BDIX",Channel 24 HD▶️
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -25,12 +31,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="ATN News" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" tvg-chno="9" group-title="Bangla BDIX",ATN News▶️
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-name="Al Jazeera" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" tvg-chno="12" group-title="Bangla BDIX",Al Jazeera▶️
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-
-#EXTINF:-1 tvg-id="13" tvg-name="Star News" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" tvg-chno="13" group-title="Bangla BDIX",Star News▶️
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="BTV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png" tvg-chno="14" group-title="Bangla BDIX",BTV▶️
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -43,9 +43,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
 #EXTINF:-1 tvg-id="21" tvg-name="Channel 9 HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" tvg-chno="21" group-title="Bangla BDIX",Channel 9 HD▶️
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-
-#EXTINF:-1 tvg-id="23" tvg-name="Ekhon TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189283848.png" tvg-chno="23" group-title="Bangla BDIX",Ekhon TV▶️
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
 #EXTINF:-1 tvg-id="24" tvg-name="SRK TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" tvg-chno="24" group-title="Bangla BDIX",SRK TV▶️
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
@@ -64,9 +61,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="Uniques HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" tvg-chno="30" group-title="Movies",Uniques HD▶️
 https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
-
-#EXTINF:-1 tvg-id="31" tvg-name="ARY News" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770531824347.png" tvg-chno="31" group-title="News",ARY News▶️
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-name="Superrix HD" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" tvg-chno="33" group-title="Movies",Superrix HD▶️
 https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
@@ -140,13 +134,7 @@ https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="Sangeet Bangla" tvg-country="IN" tvg-logo="https://yt3.googleusercontent.com/d4TO41JH1dQs4f7rB8AwqV2yhMXIloB9ZLgT_c69p0kaILTjikCrFAQKAM8j3hULa9DRY2KzCg=s900-c-k-c0x00ffffff-no-rj" tvg-chno="55" group-title="Music",Sangeet Bangla▶️
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-id="55" tvg-name="ARY DIGITAL" tvg-country="PK" tvg-logo="https://play-lh.googleusercontent.com/n9P9QTU4pPUtKAsD8Eun6mlxxwpFt4WRLhF29XziXjRrS_vcYv7xMhaVoMvdUDvluac=w600-h300-pc0xffffff-pd" tvg-chno="55" group-title="Entertainment",ARY DIGITAL▶️
-https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-name="HUM" tvg-country="PK" tvg-logo="https://yt3.googleusercontent.com/ozZfTXiDhcWiZAymmOj2cQFhZbcBTK0K6TnbguD3XsLmNY0SaEuK3Jfj3QwkZx7SmAJSicca-Q=s900-c-k-c0x00ffffff-no-rj" tvg-chno="55" group-title="Entertainment",HUM▶️
-https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-name="HBO 2" tvg-country="IN" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" tvg-chno="55" group-title="Movie",HBO 2▶️
+#EXTINF:-1 tvg-id="55" tvg-name="HBO 2" tvg-country="IN" tvg-logo="https://stmify.com/wp-content/uploads/2024/12/370-s.webp" tvg-chno="55" group-title="Movies",HBO 2▶️
 https://cdn01.medialive.one:2096/HBO2FHD/index.m3u8
 
 #EXTINF:-1 tvg-id="56" tvg-name="Kids Stars" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" tvg-chno="56" group-title="Kids",Kids Stars▶️
@@ -155,6 +143,17 @@ https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="TNT Sports" tvg-country="NZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZwDq63DFaKdXQ2duMyvQ341JY7Eo3pQTLmICjcztbw&s=10" tvg-chno="56" group-title="Sports",TNT Sports▶️
 https://1nyaler.screenistream.xyz/stream/122/index.m3u8
 
+#EXTINF:-1 tvg-id="12" tvg-name="Al Jazeera" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png" tvg-chno="12" group-title="News",Al Jazeera▶️
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="ARY News" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770531824347.png" tvg-chno="31" group-title="PK",ARY News▶️
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="ARY DIGITAL" tvg-country="PK" tvg-logo="https://play-lh.googleusercontent.com/n9P9QTU4pPUtKAsD8Eun6mlxxwpFt4WRLhF29XziXjRrS_vcYv7xMhaVoMvdUDvluac=w600-h300-pc0xffffff-pd" tvg-chno="55" group-title="PK",ARY DIGITAL▶️
+https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="HUM" tvg-country="PK" tvg-logo="https://yt3.googleusercontent.com/ozZfTXiDhcWiZAymmOj2cQFhZbcBTK0K6TnbguD3XsLmNY0SaEuK3Jfj3QwkZx7SmAJSicca-Q=s900-c-k-c0x00ffffff-no-rj" tvg-chno="55" group-title="PK",HUM▶️
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 
 
 
