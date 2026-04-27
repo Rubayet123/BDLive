@@ -1,5 +1,13 @@
 #EXTM3U
 
+<===Live Sports🏏===>
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",BD VS NZ
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Live Sports",BD VS NZ
+http://27.124.71.27/T-Sports/index.m3u8
+
+
+
 <==Akash_Go==>
 
 #EXTINF:-1 tvg-id="13" tvg-name="Star News" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" tvg-chno="13" group-title="Bangla BDIX",Star News▶️
