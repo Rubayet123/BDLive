@@ -1,11 +1,55 @@
 #EXTM3U
 
-<===Live Sports===>
+<===Live_Sports===>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports (backup)
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports2 (backup)
-http://27.124.71.27/T-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Sports",Tsports 🇧🇩
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+
+// Bdix_sports_channels
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports 📶
+http://172.20.21.22/live/skyfeed1005/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports HD
+http://172.16.60.2:8088/102/index.m3u8
+#EXTINF:-1 group-title="Sports",Sports Live
+http://172.16.60.2:8088/101/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="Sports",Star Sports1 HD
+http://172.16.60.2:8088/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540" group-title="Sports",Star Sports2 HD
+http://172.16.60.2:8088/115/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="Sports",Sony Sports1
+http://172.16.60.2:8088/119/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540" group-title="Sports",Sony Sports2
+http://172.16.60.2:8088/120/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbp2Mig.png" group-title="Sports",Sony Sports3
+http://172.16.60.2:8088/121/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143849_ld_h15_aa.png?lock=720x540" group-title="Sports",Select1 HD
+http://172.16.60.2:8088/123/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A Sports
+http://172.16.60.2:8088/127/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PTV Sports
+http://172.16.60.2:8088/128/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports (ICC)
+http://10.16.100.202:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports2 (ICC)
+http://10.16.100.206:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports3 (ICC)
+http://10.16.100.213:8080/hls/tsports.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PtvSportsHD (ICC)
+http://10.16.100.202:8080/hls/PtvSportsHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PtvSportsHD 2 (ICC)
+http://10.16.100.206:8080/hls/PtvSportsHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PtvSportsHD 3 (ICC)
+http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",Asports (ICC)
+http://10.16.100.202:8080/hls/asports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",Asports 2 (ICC)
+http://10.16.100.206:8080/hls/asports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",Asports 3 (ICC)
+http://10.16.100.213:8080/hls/asports.m3u8
+
+
 
 
 
@@ -169,50 +213,6 @@ https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 
 
 <==BDIX==>
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports 📶
-http://172.20.21.22/live/skyfeed1005/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports HD
-http://172.16.60.2:8088/102/index.m3u8
-#EXTINF:-1 group-title="Sports",Sports Live
-http://172.16.60.2:8088/101/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="Sports",Star Sports1 HD
-http://172.16.60.2:8088/110/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540" group-title="Sports",Star Sports2 HD
-http://172.16.60.2:8088/115/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="Sports",Sony Sports1
-http://172.16.60.2:8088/119/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143845_ld_h15_aa.png?lock=720x540" group-title="Sports",Sony Sports2
-http://172.16.60.2:8088/120/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dbp2Mig.png" group-title="Sports",Sony Sports3
-http://172.16.60.2:8088/121/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143849_ld_h15_aa.png?lock=720x540" group-title="Sports",Select1 HD
-http://172.16.60.2:8088/123/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A Sports
-http://172.16.60.2:8088/127/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PTV Sports
-http://172.16.60.2:8088/128/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports (ICC)
-http://10.16.100.202:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports2 (ICC)
-http://10.16.100.206:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports3 (ICC)
-http://10.16.100.213:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PtvSportsHD (ICC)
-http://10.16.100.202:8080/hls/PtvSportsHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PtvSportsHD 2 (ICC)
-http://10.16.100.206:8080/hls/PtvSportsHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PtvSportsHD 3 (ICC)
-http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",Asports (ICC)
-http://10.16.100.202:8080/hls/asports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",Asports 2 (ICC)
-http://10.16.100.206:8080/hls/asports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",Asports 3 (ICC)
-http://10.16.100.213:8080/hls/asports.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/330px-Jamuna_TV_logo.svg.png" group-title="Bangla BDIX",Jamuna
 http://172.16.60.2:8088/209/index.m3u8
