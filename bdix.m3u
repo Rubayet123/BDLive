@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",TsportsHD
 https://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Somoy TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" tvg-chno="2" group-title="Bangla BDIX",SomoyTV
+#EXTINF:-1 tvg-id="2" tvg-name="Somoy TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" tvg-chno="2" group-title="Sports",SomoyTV
 https://cdn.moviemazic.xyz:8083/SomoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/2ZUrloQq5_7h9c97COsjYRz5pMqnEZ8x7n_d3Exw-FJ5V1eIG2Et0VjP8wk7G3P-WDMraOL53Q=s160-c-k-c0x00ffffff-no-rj"group-title="Sports",Tapmad
