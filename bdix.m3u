@@ -13,6 +13,34 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/le
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Sports",Tsports 🇧🇩
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
+
+
+#EXTINF:-1 tvg-name="Sports-1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/2026_FIFA_World_Cup_logo.svg/512px-2026_FIFA_World_Cup_logo.svg.png" group-title="FIFA World Cup 2026",Sports-1
+http://10.20.30.30:7171/Sports-1/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+
+#EXTINF:-1 tvg-name="Sports-2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/2026_FIFA_World_Cup_logo.svg/512px-2026_FIFA_World_Cup_logo.svg.png" group-title="FIFA World Cup 2026",Sports-2
+http://10.20.30.30:7171/Sports-2/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+
+#EXTINF:-1 tvg-name="Sports-3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/2026_FIFA_World_Cup_logo.svg/512px-2026_FIFA_World_Cup_logo.svg.png" group-title="FIFA World Cup 2026",Sports-3
+http://10.20.30.30:7171/Sports-3/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+
+#EXTINF:-1 tvg-name="Sports-4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/2026_FIFA_World_Cup_logo.svg/512px-2026_FIFA_World_Cup_logo.svg.png" group-title="FIFA World Cup 2026",Sports-4
+http://10.20.30.30:7171/Sports-4/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+
+#EXTINF:-1 tvg-name="Sports-5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/2026_FIFA_World_Cup_logo.svg/512px-2026_FIFA_World_Cup_logo.svg.png" group-title="FIFA World Cup 2026",Sports-5
+http://10.20.30.30:7171/Sports-5/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+
+#EXTINF:-1 tvg-name="Sports-6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/2026_FIFA_World_Cup_logo.svg/512px-2026_FIFA_World_Cup_logo.svg.png" group-title="FIFA World Cup 2026",Sports-6
+http://10.20.30.30:7171/Sports-6/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+
+#EXTINF:-1 tvg-name="Sports-7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/2026_FIFA_World_Cup_logo.svg/512px-2026_FIFA_World_Cup_logo.svg.png" group-title="FIFA World Cup 2026",Sports-7
+http://10.20.30.30:7171/Sports-7/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+
+#EXTINF:-1 tvg-name="Sports-8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/2026_FIFA_World_Cup_logo.svg/512px-2026_FIFA_World_Cup_logo.svg.png" group-title="FIFA World Cup 2026",Sports-8
+http://10.20.30.30:7171/Sports-8/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+
+
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Tsports
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Somoy
