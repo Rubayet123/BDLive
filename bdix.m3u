@@ -8,7 +8,7 @@ http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/tracks-v1a1/mono.m3u8
 http://10.30.30.30:8088/SOMOY.TV.HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nL2jYMpSFZHSV47_1T3Kdx_oACYy6EB7G9bzWr_UQJMw=s160-c-k-c0x00ffffff-no-rj"group-title="Sports",BTV
-http://10.30.30.30:8088/BTV.HD/tracks-v1a1/mono.m3u8
+http://10.30.30.30:8088/BTV.HD/tracks-v1a1/mono.m3u8?token=06d2d1c8d323cd469b5abf2d163a8fd7e105b7ab-79cbe8f5cff6311f3e3bc66a3169a2d6-1781730710-1781719910&remote=no_check_ip
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Sports",Tsports 🇧🇩
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
