@@ -4,8 +4,6 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",TsportsHD
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Somoy TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" tvg-chno="2" group-title="Sports",SomoyTV
-http://10.30.30.30:8088/SOMOY.TV.HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nL2jYMpSFZHSV47_1T3Kdx_oACYy6EB7G9bzWr_UQJMw=s160-c-k-c0x00ffffff-no-rj"group-title="Sports",BTV
 http://10.30.30.30:8088/BTV.HD/tracks-v1a1/mono.m3u8?token=06d2d1c8d323cd469b5abf2d163a8fd7e105b7ab-79cbe8f5cff6311f3e3bc66a3169a2d6-1781730710-1781719910&remote=no_check_ip
