@@ -52,6 +52,9 @@ https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",DAZN 4K
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",CazeTV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Mahsun Sport
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
@@ -61,17 +64,11 @@ https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Telemundo
 https://vizio.kuvuslov.cymru/telemundo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Ios2
-https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",TyC Sports
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Win Sports
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",CazeTV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",ESPN USA
 https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
@@ -88,6 +85,8 @@ https://1nyaler.streamhostingcdn.top/stream/27/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Ios2
+https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8
 
 
 
