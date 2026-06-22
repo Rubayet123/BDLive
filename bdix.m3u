@@ -46,17 +46,17 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Bein Sports (50fps)
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",DSports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",DAZN 4K
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",CazeTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Mahsun Sport
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",TyC Sports
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Win Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",TVP Sports Latin
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
@@ -64,11 +64,11 @@ https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Telemundo
 https://vizio.kuvuslov.cymru/telemundo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",TyC Sports
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",DSports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Win Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",DAZN 4K
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",ESPN USA
 https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
