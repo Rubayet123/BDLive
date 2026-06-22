@@ -46,7 +46,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="Sport WorldCup",RTB Sport
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Bein Sports
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Bein Sports (50fps)
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",DSports
