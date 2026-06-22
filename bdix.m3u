@@ -21,8 +21,8 @@ http://30.30.30.138:8088/101/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/RTB_GO_logo.png/250px-RTB_GO_logo.png" group-title="Sport WorldCup",RtbGo
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",SomoyTV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
