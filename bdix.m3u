@@ -43,9 +43,6 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/RTB_GO_logo.png/250px-RTB_GO_logo.png" group-title="Sport WorldCup",RtbGo
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="Sport WorldCup",RTB Sport
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Bein Sports (50fps)
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
@@ -58,7 +55,7 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Mahsun Sport
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",TVP Sorts Latin
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",TVP Sports Latin
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Telemundo
@@ -66,12 +63,6 @@ https://vizio.kuvuslov.cymru/telemundo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Ios2
 https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",MatchTV
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",TUDN
-https://1nyaler.streamhostingcdn.top/stream/27/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",TyC Sports
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
@@ -84,6 +75,15 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",ESPN USA
 https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="Sport WorldCup",RTB Sport
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",MatchTV
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",TUDN
+https://1nyaler.streamhostingcdn.top/stream/27/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
