@@ -40,6 +40,9 @@ http://172.19.17.3:8090/hls/tsportshd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",SomoyTV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",TRT
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master_480.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/RTB_GO_logo.png/250px-RTB_GO_logo.png" group-title="Sport WorldCup",RtbGo
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
