@@ -15,7 +15,7 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sport WorldCup",Tsports (ISP)
-http://10.99.99.99:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=d090dea968e97286e1e28404f3dcfec935b90360-091b5271adefa5a9b5b30eaa025d4401-1783117673-1783106873
+http://10.99.99.99:http://10.99.99.99:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=8baf5549ada8e85a1f3139611c6838fbf51d2ae3-fac8c2df2da11c55face49717fdd51f6-1783129764-1783118964
 
 
 
