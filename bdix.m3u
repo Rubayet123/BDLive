@@ -2,18 +2,6 @@
 
 <===Live_Sports===>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sport WorldCup",Tsports HD
-http://30.30.30.138:8088/102/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",United live
-http://30.30.30.138:8088/101/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Sport WorldCup",Tsports 🇧🇩
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sport WorldCup",Tsports (imo)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/dnf8bBrQoauoevNogxsm0w/1783367984/T-SPORTS-HD/index.m3u8
 
@@ -26,6 +14,16 @@ https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/46WLS
 #EXTINF:-1 tvg-logo=""group-title="Sport WorldCup",PTV Sports (imo)
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/6oKrHpuwUpM9ea5vWMWPRg/1783339823/PTV-SPORTS-HD/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sport WorldCup",Tsports HD
+http://30.30.30.138:8088/102/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",United live
+http://30.30.30.138:8088/101/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Sport WorldCup",Tsports 🇧🇩
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 
 
