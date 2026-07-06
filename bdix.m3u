@@ -2,13 +2,13 @@
 
 <===Live_Sports===>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sport WorldCup",Tsports HD
 http://30.30.30.138:8088/102/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",United live
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",United live
 http://30.30.30.138:8088/101/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Sports",Tsports 🇧🇩
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Sport WorldCup",Tsports 🇧🇩
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 
@@ -103,6 +103,8 @@ http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
 http://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Bein4
 http://ua.online24.pm/play/1104/350B326FB34F4B8/video.m3u8
+
+
 
 
 
