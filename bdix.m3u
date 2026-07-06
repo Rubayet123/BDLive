@@ -14,9 +14,17 @@ http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sport WorldCup",Tsports (ISP)
-http://10.99.99.99:http://10.99.99.99:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=8baf5549ada8e85a1f3139611c6838fbf51d2ae3-fac8c2df2da11c55face49717fdd51f6-1783129764-1783118964
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sport WorldCup",Tsports (imo)
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/x2vXM7a2UceK_iGI0sMyOw/1783339556/T-SPORTS-HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nL2jYMpSFZHSV47_1T3Kdx_oACYy6EB7G9bzWr_UQJMw=s160-c-k-c0x00ffffff-no-rj"group-title="Sport WorldCup",BTV (imo)
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/XfaC8S3A0phA7-ztL8847g/1783339754/T-SPORTS-2/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Sport WorldCup",Unite8 (imo)
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/46WLSWKu0RlSts4Bkl8cSQ/1783339788/ZEE-CAFE-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Sport WorldCup",PTV Sports (imo)
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/6oKrHpuwUpM9ea5vWMWPRg/1783339823/PTV-SPORTS-HD/index.m3u8
 
 
 
