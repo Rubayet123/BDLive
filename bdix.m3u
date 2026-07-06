@@ -132,24 +132,6 @@ http://172.16.60.2:8088/123/index.m3u8
 http://172.16.60.2:8088/127/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PTV Sports
 http://172.16.60.2:8088/128/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports (ICC)
-http://10.16.100.202:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports2 (ICC)
-http://10.16.100.206:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports3 (ICC)
-http://10.16.100.213:8080/hls/tsports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PtvSportsHD (ICC)
-http://10.16.100.202:8080/hls/PtvSportsHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PtvSportsHD 2 (ICC)
-http://10.16.100.206:8080/hls/PtvSportsHD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PtvSportsHD 3 (ICC)
-http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",Asports (ICC)
-http://10.16.100.202:8080/hls/asports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",Asports 2 (ICC)
-http://10.16.100.206:8080/hls/asports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",Asports 3 (ICC)
-http://10.16.100.213:8080/hls/asports.m3u8
 
 
 
