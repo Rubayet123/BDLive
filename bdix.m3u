@@ -51,9 +51,16 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Mahsun Sport
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Mahsun Sport2
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Mahsun TRT1
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrt1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Mahsun Tabi
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Mahsun CBC
+https://andro.evrenesoglu57.click/checklist/androstreamlivecbcs.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Tsports (web)
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
@@ -71,7 +78,6 @@ https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN5/index.m3u8
 https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/ITV2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",ITV1
 https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/ITV1/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="Sport WorldCup",Bein xtra
