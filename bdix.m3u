@@ -604,18 +604,9 @@ http://172.19.17.3:8090/hls/AndPictureHD.m3u8
 
 //--- MUSIC ---//
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png?lock=720x540" group-title="Music",9xm HD
-http://97.74.103.44:8089/load/9xm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qubgOi5.png" group-title="Music",9x_jalwa HD
-http://97.74.103.44:8089/load/9x_jalwa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music",Vevo Hip Hop & R&B
+https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music",B4U
-http://10.20.30.40:8088/701/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" group-title="Music",Sangeet Bangla
-http://10.20.30.40:8088/702/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="http://172.19.17.28/images/9xm.png",9XM
-http://172.19.17.3:8090/hls/9xm.m3u8
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="http://172.19.17.28/images/sangeetbangla.png",SANGEET BANGLA
 http://172.19.17.3:8090/hls/SangeetBangla.m3u8
 
