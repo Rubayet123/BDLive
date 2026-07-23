@@ -359,11 +359,12 @@ http://10.20.30.40:8088/212/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SA_TV_Bangladesh_Logo.svg/250px-SA_TV_Bangladesh_Logo.svg.png" group-title="Bangla BDIX",SATV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
-
 #EXTINF:-1 tvg-id="" group-title="Bangla BDIX" tvg-logo="http://172.19.17.28/images/somoytv.jpg",SOMOY TV
 http://172.19.17.3:8090/hls/somoytv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Bangla BDIX" tvg-logo="http://172.19.17.28/images/BTV.png",BTV
 http://172.19.17.3:8090/hls/BTVNationalHD.m3u8
+
+
 
 
 //--- Indian_Bangla ---//
@@ -468,22 +469,6 @@ http://172.19.17.3:8090/hls/DiscoveryKids.m3u8
 
 
 //--- Documentary ---//
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Documentary",Discovery HD
-http://172.16.60.2:8088/801/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Documentary",NatGeo HD
-http://172.16.60.2:8088/802/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143572_ld_h15_aa.png?lock=720x540" group-title="Documentary",Natgeo_wild
-http://97.74.103.44:8089/load/natgeo_wild/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Documentary",Animal_planet
-http://97.74.103.44:8089/load/animal_planet_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png" group-title="Documentary",Discovery History
-http://97.74.103.44:8089/load/discovery_history/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/500px-History_Logo.svg.png" group-title="Documentary",History
-http://97.74.103.44:8089/nimble_live/history/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540" group-title="Documentary",TLC HD
-http://97.74.103.44:8089/nimble_live/tlchd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Documentary" tvg-logo="http://172.19.17.28/images/natgeo.png",NAT GEO
 http://172.19.17.3:8090/hls/NatGeoWild.m3u8
