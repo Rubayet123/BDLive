@@ -259,29 +259,6 @@ http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8
 
 //--- HINDI ---//
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158822_ld_h15_aa.png?lock=720x540" group-title="Hindi",StarGold Thrill
-http://10.20.30.40:8088/408/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158298_ld_h15_aa.png?lock=720x540" group-title="Hindi",StarGold Romance
-http://10.20.30.40:8088/409/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143815_ld_h15_aa.png?lock=720x540" group-title="Hindi",StarGold HD
-http://172.16.60.2:8088/402/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg" group-title="Hindi",Colors_HD
-http://172.16.60.2:8088/405/index.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://172.16.60.2/assets/images/Zee-Cinema.png",Zee-Cinema
-http://172.16.60.2:8088/406/index.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://172.16.60.2/assets/images/Sony Max HD1667728133.png",Sony Max HD
-http://172.16.60.2:8088/407/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540" group-title="Hindi",Starplus_HD
-http://97.74.103.44:8089/load/STAR%20PLUS%20HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Hindi",Sony_HD
-http://97.74.103.44:8089/amrbd/SONY-ENT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Hindi",ZeeCinema_HD
-http://97.74.103.44:8089/amrbd/ZEE-CINEMA/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Hindi",&Picture_HD
-http://97.74.103.44:8089/amrbd/AND-PICTURE/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Hindi" tvg-logo="http://172.19.17.28/images/starplus.png",STAR PLUS
 http://172.19.17.3:8090/hls/StarPlusHD.m3u8
 #EXTINF:-1 tvg-id="" group-title="Hindi" tvg-logo="http://172.19.17.28/images/sony.png",SONY HD
@@ -297,39 +274,6 @@ http://172.19.17.3:8090/hls/AndPictureHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi", AND FLIX HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/AND-FLIX-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", AND PICTURS HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/AND-PICTURS-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", AND PRIVE HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/AND-PRIVE-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", COLORS CINEPLEX HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/COLORS-CINEPLEX-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", HUM MASALA TV
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/HUM-MASALA-TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", COLORS HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/COLORS-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", SONY ENT HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-ENT-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", SONY MAX HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-MAX-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", STAR PLUS HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-PLUS-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", SONY YAY
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-YAY/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi",STAR BARAT-HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-BHARAT-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", STAR GOLD HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-GOLD-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi",ZEE-CAFE-HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/ZEE-CAFE-HD/index.m3u8
-
-
-
-
-
-
-
 //--- MUSIC ---//
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music",Vevo Hip Hop & R&B
@@ -340,12 +284,6 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="http://172.19.17.28/images/sangeetbangla.png",SANGEET BANGLA
 http://172.19.17.3:8090/hls/SangeetBangla.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music",ZING MUSIC
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/ZING-MUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",ZOOM MUSIC
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/ZOOM-MUSIC/index.m3u8
-
 
 
 
@@ -392,32 +330,6 @@ https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4E
 
 //--- Movies ---//
 
-#EXTINF:-1 tvg-logo="" group-title="Movies", SONY PIX HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-PIX-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies", STAR MOVIES HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-MOVIES-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies", STAR MOVIES SEL HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-MOVIES-SEL-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Macau LotusTV
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/LOTUS-TV-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",MN+HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/MN-PLUS-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies", MNX HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/MNX-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies", MOVIES NOW HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/MOVIES-NOW-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies", ROMEDY NOW
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/ROMEDY-NOW/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Movies (BDIX)
-http://172.16.60.2:8088/501/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Pix (BDIX)
-http://172.16.60.2:8088/503/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Movies select(BDIX)
-http://10.20.30.40:8088/502/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://172.19.17.28/images/star-movies-hd.jpg",STAR MOVIES HD
 http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
 
@@ -437,15 +349,6 @@ http://97.74.103.44:8089/nimble_live/andprive/playlist.m3u8
 //--- News ---//
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="http://172.19.17.28/images/aljazeranews.png",ALJAZEERA NEWS
 http://172.19.17.3:8090/hls/ALjazeeraNews.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="News",Al Jazeera English HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/ALJAZEERA-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News", DW NEWS
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/DW-NEWS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News", DW NEWS HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/DW-NEWS-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="News",Geo News
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/GEO-NEWS-HD/index.m3u8
 
 
 
