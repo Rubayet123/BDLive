@@ -293,8 +293,6 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2BpFIlg7SQHxrrmoENfKOA/ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0Rrlt7ta1WceuKdbR2ZG2M/ts
 #EXTINF:-1 xui-id="45" tvg-id="" tvg-name="&TV HD" tvg-logo="" group-title="Hindi",&TV HD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA-apbFBPyhH5Vw4IeJ6WhF4/ts
-#EXTINF:-1 xui-id="46" tvg-id="" tvg-name="ARY DIGITAL HD" tvg-logo="" group-title="Hindi",ARY DIGITAL HD
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0v-9BtcZyEoU_QsCSQQF-o/ts
 #EXTINF:-1 xui-id="47" tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="" group-title="Hindi",STAR GOLD HD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAzfDXL7ICb2s2rW5jYC-llI/ts
 #EXTINF:-1 xui-id="48" tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="" group-title="Hindi",ZEE CINEMA HD
@@ -313,7 +311,10 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAw6wgoEJKegLTvDQokklOzo/ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3cQXdzXh1YzQMSCTMDCUJA/ts
 #EXTINF:-1 xui-id="78" tvg-id="" tvg-name="B4U MOVIES" tvg-logo="" group-title="Hindi",B4U MOVIES
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA4n_zRzoRzcCU7-ipB8N9Z8/ts
-
+#EXTINF:-1 xui-id="46" tvg-id="" tvg-name="ARY DIGITAL HD" tvg-logo="" group-title="Hindi",ARY DIGITAL HD
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0v-9BtcZyEoU_QsCSQQF-o/ts
+#EXTINF:-1 xui-id="152" tvg-id="" tvg-name="Green TV Pakistan" tvg-logo="" group-title="Hindi",Green TV Pakistan
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3PjCAgnggIZu7nLy8U86oQ/ts
 
 
 
@@ -449,3 +450,8 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_WT-qQ1Vvcp_PpPgcSvyx8/ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA1sUCA5qm7qHauPVkie52ws/ts
 #EXTINF:-1 xui-id="108" tvg-id="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="Kids",DISNEY JUNIOR
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAyliidEDNYIitCJwJjRPedo/ts
+
+
+//--- Islamic ---//
+#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="IQRABANGLA" tvg-logo="" group-title="Islamic",IQRABANGLA
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA16Ie0oonPhyoqfnPt109zk/ts
