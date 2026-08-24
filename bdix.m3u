@@ -2,51 +2,6 @@
 
 //--- Bdix_sports_channels ---//
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Star Sports 1 HD
-http://172.20.21.22/live/skyfeed1005/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports HD
-http://172.16.200.211/stream/hls/ch01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",A SPORTS HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/A-SPORTS-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS 1 HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS-1-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS 2 HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS-2-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS 3
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS-3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS SELECT 1 HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS-SEL1-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS SELECT 2 HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS-SEL2-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS 1 HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS1-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS 2 HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS2-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 1 HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS-1HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 2 HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS-2-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 3
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS-3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 4
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS-4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 5HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS-5HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS2 HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS2-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",T Sports HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/T-SPORTS-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",BTV
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/T-SPORTS-2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",PTV-SPORTS-HD
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/PTV-SPORTS-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",RED BULL TV
-https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/RED-BULL-TV/index.m3u8
-
-
-
 #EXTINF:-1 xui-id="54" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="" group-title="Sports",T SPORTS HD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA7X-uI_Yz5Q0PyFgtEe_2oo/ts
 #EXTINF:-1 xui-id="55" tvg-id="" tvg-name="T SPORTS FHD" tvg-logo="" group-title="Sports",T SPORTS FHD
@@ -117,6 +72,51 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_NPzxecNHboIe1e2-nPiBY/ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAxUd6JVQqQ5BukhhNzxQ8Vs/ts
 #EXTINF:-1 xui-id="156" tvg-id="" tvg-name="BEIN SPORTS HD USA" tvg-logo="" group-title="Sports",BEIN SPORTS HD USA
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAzYbVXA85MGuL-AAcbW94Eg/ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",A SPORTS HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/A-SPORTS-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS 1 HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS-1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS 2 HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS-2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS 3
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS-3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS SELECT 1 HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS-SEL1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS SELECT 2 HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS-SEL2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS 1 HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",STAR SPORTS 2 HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/STAR-SPORTS2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 1 HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS-1HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 2 HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS-2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 3
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS-3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 4
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS-4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS 5HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS-5HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",SONY SPORTS2 HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SONY-SPORTS2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",T Sports HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/T-SPORTS-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BTV
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/T-SPORTS-2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",PTV-SPORTS-HD
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/PTV-SPORTS-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",RED BULL TV
+https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/RED-BULL-TV/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Tsports HD
+http://172.16.200.211/stream/hls/ch01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/330px-T_Sports_logo.svg.png" group-title="Sports",Star Sports 1 HD
+http://172.20.21.22/live/skyfeed1005/index.m3u8
 
 
 
@@ -201,23 +201,23 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6u0cUu8e3mG5F8__1-tWTw/ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6Leaj8pHKV9GIxfiviqUcc/ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla BDIX",SOMOY TV HD
+#EXTINF:-1 tvg-logo="" group-title="Bangla",SOMOY TV HD
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/SOMOY-TV-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla BDIX",ATN BANGLA
+#EXTINF:-1 tvg-logo="" group-title="Bangla",ATN BANGLA
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/ATN-BANGLA/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla BDIX",ATN NEWS
+#EXTINF:-1 tvg-logo="" group-title="Bangla",ATN NEWS
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/ATN-NEWS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla BDIX",CHANNEL24 HD
+#EXTINF:-1 tvg-logo="" group-title="Bangla",CHANNEL24 HD
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/CHANNEL-24-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla BDIX",Channel I HD
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Channel I HD
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/CHANNEL-I-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla BDIX",DBC NEWS
+#EXTINF:-1 tvg-logo="" group-title="Bangla",DBC NEWS
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/DBC-NEWS/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla BDIX",DEEPTO TV
+#EXTINF:-1 tvg-logo="" group-title="Bangla",DEEPTO TV
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/DEEPTO-TV/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla BDIX",INDEPENDENDENT TV
+#EXTINF:-1 tvg-logo="" group-title="Bangla",INDEPENDENDENT TV
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/GKQ4EhJlF9s6uQybYLlReA/1784843519/INDEPENDENDENT/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla BDIX",JAMUNA TV
+#EXTINF:-1 tvg-logo="" group-title="Bangla",JAMUNA TV
 https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlUfw8Zw9ACChKXnGqBQ/1784843520/JAMUNA-TV/index.m3u8
 
 
