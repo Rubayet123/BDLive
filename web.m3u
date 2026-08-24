@@ -10,14 +10,19 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
+#EXTINF:-1 tvg-id="24" tvg-name="SRK TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" tvg-chno="24" group-title="Bangla",SRK TV▶️
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="Bangla",DesheBideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 
 
 
-
 <===Indian_Bangla===>
+
+#EXTINF:-1 tvg-logo="" group-title="inbangla",Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="inbangla",Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -51,6 +56,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 <===Music===>
 
+#EXTINF:-1 tvg-id="55" tvg-name="Sangeet Bangla" tvg-country="IN" tvg-logo="https://yt3.googleusercontent.com/d4TO41JH1dQs4f7rB8AwqV2yhMXIloB9ZLgT_c69p0kaILTjikCrFAQKAM8j3hULa9DRY2KzCg=s900-c-k-c0x00ffffff-no-rj" tvg-chno="55" group-title="Music",Sangeet Bangla▶️
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Music",Music India
 https://cdn-2.pishow.tv/live/226/226_1.m3u8
 
@@ -68,6 +76,8 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music",Vevo Hip Hop & R&B
+https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music", KISS TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
@@ -125,6 +135,42 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 ===Sports===
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="Sports",Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Sports",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow Extra HD
+http://27.124.71.27/Willow_Extra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="Sports",Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",CazeTV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Mahsun Sport
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Mahsun Sport2
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Mahsun TRT1
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrt1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Mahsun Tabi
+https://andro.evrenesoglu57.click/checklist/androstreamlivetb.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Mahsun CBC
+https://andro.evrenesoglu57.click/checklist/androstreamlivecbcs.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Tsports (web)
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein xtra
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlistR360p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
