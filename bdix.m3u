@@ -123,7 +123,9 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAzYbVXA85MGuL-AAcbW94Eg/ts
 
 //--- Bangla ---//
 
-#EXTINF:-1 xui-id="159" tvg-id="" tvg-name="STAR NEWS HD" tvg-logo="" group-title="Bangla",STAR NEWS
+#EXTINF:-1 tvg-name="STAR NEWS" tvg-logo="https://en.wikipedia.org/wiki/Star_News_(Bangladesh)#/media/File:Star_News_Bangladesh_Logo.svg" group-title="Bangla",STAR NEWS
+http://cdn.moviemazic.xyz:8083/StarNews/index.m3u8
+#EXTINF:-1 xui-id="159" tvg-id="" tvg-name="STAR NEWS" tvg-logo="" group-title="Bangla",STAR NEWS
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA06U3q4n_iIyTNl59S5xOPk/ts
 
 #EXTINF:-1 tvg-logo="http://172.19.17.34:80/images/dd514fbe06b816cd2386c0bd198c0b99.png" group-title="Bangla",JAMUNA TV
@@ -136,6 +138,8 @@ https://sil1li1liliil1lii1lil1i1lilil.c3ryzwftlmltb3r2lm5lda.online/stream/DoLlU
 #EXTINF:-1 xui-id="14" tvg-id="" tvg-name="SOMOY TV" tvg-logo="" group-title="Bangla",SOMOY TV
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6fQ9rYOZHlp_qa_3KxN_5M/ts
 
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="EKATTOR TV" tvg-logo="http://172.19.17.34:80/images/2607d63cf60cf8d7df4691cb7d41ad00.png" group-title="Bangla",EKATTOR TV
+http://cdn.moviemazic.xyz:8083/EkattorTV/index.m3u8
 #EXTINF:-1 xui-id="18" tvg-id="" tvg-name="EKATTOR TV" tvg-logo="http://172.19.17.34:80/images/2607d63cf60cf8d7df4691cb7d41ad00.png" group-title="Bangla",EKATTOR TV
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA43-jJqnjp3i3ZEfAmx18Rs/ts
 
