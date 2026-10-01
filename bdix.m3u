@@ -414,20 +414,16 @@ http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="http://172.19.17.28/images/aljazeranews.png",ALJAZEERA NEWS
 http://172.19.17.3:8090/hls/ALjazeeraNews.m3u8
 
-#EXTINF:-1 xui-id="83" tvg-id="" tvg-name="GEO NEWS" tvg-logo="" group-title="News",GEO NEWS
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6CpThaCwJXt8sAB8qrVF-s/ts
-#EXTINF:-1 xui-id="84" tvg-id="" tvg-name="ARY NEWS ASIA" tvg-logo="" group-title="News",ARY NEWS ASIA
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAx9v-VqRpqtxZQFXMCrQ6ZQ/ts
 #EXTINF:-1 xui-id="85" tvg-id="" tvg-name="AL JAZEERA NEWS" tvg-logo="" group-title="News",AL JAZEERA NEWS
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA0hoHc_3-gMdkJI_HI98-bA/ts
 #EXTINF:-1 xui-id="86" tvg-id="" tvg-name="BBC WORLD" tvg-logo="" group-title="News",BBC WORLD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAyNFJcCs2Vyu_h8QjUTFrlQ/ts
 #EXTINF:-1 xui-id="87" tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="" group-title="News",CNN INTERNATIONAL
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA5E-jiuljr3UCK52TSM1dbs/ts
-#EXTINF:-1 xui-id="88" tvg-id="" tvg-name="CGTN NEWS" tvg-logo="" group-title="News",CGTN NEWS
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8frTO2QNKHLN2Q9G7ms32E/ts
 #EXTINF:-1 xui-id="89" tvg-id="" tvg-name="DW ENGLISH HD" tvg-logo="" group-title="News",DW ENGLISH HD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6tzJZi2joTlwhFnimR4SSE/ts
+#EXTINF:-1 xui-id="83" tvg-id="" tvg-name="GEO NEWS" tvg-logo="" group-title="News",GEO NEWS
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6CpThaCwJXt8sAB8qrVF-s/ts
 
 
 
