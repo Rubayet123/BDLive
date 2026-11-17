@@ -123,9 +123,9 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAzYbVXA85MGuL-AAcbW94Eg/ts
 
 //--- Bangla ---//
 
-#EXTINF:-1 xui-id="159" tvg-id="" tvg-name="STAR NEWS" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/Star_News_Bangladesh_Logo.svg/1920px-Star_News_Bangladesh_Logo.svg.png" group-title="Bangla",STAR NEWS
+#EXTINF:-1 xui-id="159" tvg-id="" tvg-name="STAR NEWS" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/Star_News_Bangladesh_Logo.svg/330px-Star_News_Bangladesh_Logo.svg.png" group-title="Bangla",STAR NEWS
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA06U3q4n_iIyTNl59S5xOPk/ts
-#EXTINF:-1 tvg-name="STAR NEWS" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/Star_News_Bangladesh_Logo.svg/1920px-Star_News_Bangladesh_Logo.svg.png" group-title="Bangla",STAR NEWS
+#EXTINF:-1 tvg-name="STAR NEWS" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/Star_News_Bangladesh_Logo.svg/330px-Star_News_Bangladesh_Logo.svg.png" group-title="Bangla",STAR NEWS
 http://cdn.moviemazic.xyz:8083/StarNews/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://172.19.17.34:80/images/dd514fbe06b816cd2386c0bd198c0b99.png" group-title="Bangla",JAMUNA TV
@@ -173,15 +173,15 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA7cBNXTdSjCFC_TLe_uXfW4/ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3eY5bhnKtcaqIuvV4P48qk/ts
 #EXTINF:-1 xui-id="30" tvg-id="" tvg-name="MAASRANGA TV HD" tvg-logo="" group-title="Bangla",MAASRANGA TV
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAwaATJyswOoYO__hjv9yeXw/ts
-#EXTINF:-1 xui-id="128" tvg-id="" tvg-name="CHANNEL 9 HD" tvg-logo="" group-title="Bangla",CHANNEL 9
+#EXTINF:-1 xui-id="128" tvg-id="" tvg-name="CHANNEL 9 HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/3840px-Channel9_bd.svg.png" group-title="Bangla",CHANNEL 9
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA7FcwQYZOprP4fG48JKASsA/ts
-#EXTINF:-1 xui-id="157" tvg-id="" tvg-name="CHANNEL 1" tvg-logo="" group-title="Bangla",CHANNEL 1
+#EXTINF:-1 xui-id="157" tvg-id="" tvg-name="CHANNEL 1" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/f/f1/Channel_1_Bangladesh_Logo.svg/1280px-Channel_1_Bangladesh_Logo.svg.png" group-title="Bangla",CHANNEL 1
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAwaBLPVxQFk98d-ZojYX86g/ts
-#EXTINF:-1 xui-id="144" tvg-id="" tvg-name="NEXUS TV HD" tvg-logo="" group-title="Bangla",NEXUS TV
+#EXTINF:-1 xui-id="144" tvg-id="" tvg-name="NEXUS TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla",NEXUS TV
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8Lk91bfZ3AwCG1p4COSyXg/ts
-#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="DURONTO TV HD" tvg-logo="" group-title="Bangla",DURONTO TV
+#EXTINF:-1 xui-id="26" tvg-id="" tvg-name="DURONTO TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangla",DURONTO TV
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA5QntX5KOHGwWaMn94p5Qmc/ts
-#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="" group-title="Bangla",NAGORIK TV
+#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg" group-title="Bangla",NAGORIK TV
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6HPuuqZ9RhYrp9fjXh2mLU/ts
 #EXTINF:-1 xui-id="2" tvg-id="" tvg-name="ATN BANGLA" tvg-logo="http://172.19.17.34:80/images/7c27bbf7631a2f3d8a2f3602a965c5e2.png" group-title="Bangla",ATN BANGLA
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA-ylQWgXsQ1YSjrwvnk0jt8/ts
@@ -189,7 +189,7 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA-ylQWgXsQ1YSjrwvnk0jt8/ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAyyELxAdIBlC08PXQnkiWZE/ts
 #EXTINF:-1 xui-id="4" tvg-id="" tvg-name="CHANNEL I HD" tvg-logo="http://172.19.17.34:80/images/6aefea908c922c486e16313fb6ea2df2.png" group-title="Bangla",CHANNEL I
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA520GaIfgksl1wGiWApHs7k/ts
-#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="EKUSHEY TV HD" tvg-logo="" group-title="Bangla",EKUSHEY TV
+#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="EKUSHEY TV HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png" group-title="Bangla",EKUSHEY TV
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2XPeLKQzyARz9Kg1IVhNT4/ts
 #EXTINF:-1 xui-id="6" tvg-id="" tvg-name="NTV HD" tvg-logo="http://172.19.17.34:80/images/7f928d17fededaac0e65feb5b7bd93b0.png" group-title="Bangla",NTV
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA5aaWroVD21CvHRQ4SKLI3E/ts
