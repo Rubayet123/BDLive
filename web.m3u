@@ -48,43 +48,40 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Documentary",Travel XP AU
 https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/mBanglaavel%20XP.png" group-title="Documentary",Travel XP BD
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Documentary",Travel XP BD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Documentary",Travel XP NZ
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Documentary",Travel XP NZ
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary",CGTN China
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png",CGTN China
 https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
-#EXTINF:-1 group-title="Documentary",CGTN Docmentary
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Docmentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
-#EXTINF:-1 group-title="Documentary",Discover Pakistan TV
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Discover_Pakistan_Logo.png",Discover Pakistan TV
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="IN17000109O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN17000109O_20241024T054038SQUARE.png" group-title="Documentary",Epic
 https://jmp2.uk/stvp-IN17000109O
-#EXTINF:-1 group-title="Documentary",FASHION ONE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
-#EXTINF:-1 group-title="Documentary",FASHION ONE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
-#EXTINF:-1 group-title="Documentary",Motor Vision
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://images.seeklogo.com/logo-png/22/2/motorvision-tv-logo-png_seeklogo-226040.png",Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.id" tvg-logo="https://iili.io/JmoCZ5g.png" group-title="Documentary",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Documentary",REAL WILD
+#EXTINF:-1 group-title="Documentary" tvg-logo="",REAL WILD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://v.fastcdn.co/t/ce0680fc/696b5161/1690316576-50673365-238x134-WEATHERSPY-LOGO-WHIT.png" group-title="Documentary",Weather Spy
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
-#EXTINF:-1 group-title="Documentary",Amazon SAT
+#EXTINF:-1 group-title="Documentary" tvg-logo="",Amazon SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Fashion_One_Logo.png",FASHION ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 
 # =======================================================
 # CATEGORY: Hindi
 # =======================================================
 
-#EXTINF:-1 group-title="Hindi",B4U Movies
+#EXTINF:-1 group-title="Hindi" tvg-logo="",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Hindi",BollyFlix IN
+#EXTINF:-1 group-title="Hindi" tvg-logo="",BollyFlix IN
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-#EXTINF:-1 group-title="Hindi",Hindi Movies
+#EXTINF:-1 group-title="Hindi" tvg-logo="",Hindi Movies
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
@@ -185,11 +182,11 @@ https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="TopMoviesPolska.pl@SD" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39a979b9-49df-48c1-8c1c-5763828b60aa-width200-quality90.png" group-title="Movies",Top Movies Polska
 https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
 
-#EXTINF:-1 group-title="Movies",AMC Triller
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2F6%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F6e7af423114c9f735d17e142783f233a.png",AMC Triller
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Movies",AVA Family (720p) [Not 24/7]
 https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png" group-title="Movies",FX Movies
+#EXTINF:-1 tvg-logo="https://ygo-assets-entities-us.yougov.net/817b25d9-af2d-11e7-bb98-5f64ef68aa44.jpg" group-title="Movies",FX Movies
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GrandCinema.tr" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png" group-title="Movies",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
@@ -211,9 +208,9 @@ https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s" group-title="Movies",Movie Dome Family
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Mytime Movie
+#EXTINF:-1 group-title="Movies" tvg-logo="",Mytime Movie
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Mytime Movie2
+#EXTINF:-1 group-title="Movies" tvg-logo="",Mytime Movie2
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 
@@ -222,7 +219,7 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 # CATEGORY: Music
 # =======================================================
 
-#EXTINF:-1 group-title="Music",Music Mastii
+#EXTINF:-1 group-title="Music" tvg-logo="",Music Mastii
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -230,7 +227,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="55" tvg-logo="https://yt3.googleusercontent.com/d4TO41JH1dQs4f7rB8AwqV2yhMXIloB9ZLgT_c69p0kaILTjikCrFAQKAM8j3hULa9DRY2KzCg=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Sangeet Bangla▶️
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 group-title="Music",YRF
+#EXTINF:-1 group-title="Music" tvg-logo="",YRF
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 
@@ -252,31 +249,31 @@ https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist/amg0
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopuk-rakutenuk/playlist.m3u8?ads_amagi_channel_id=922&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=15&ads_rtv_content_id=5978&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=e5b1d516-e6d3-4022-a533-93dd202345f0&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 
-#EXTINF:-1 group-title="Music",AT_KroneHit
+#EXTINF:-1 group-title="Music" tvg-logo="",AT_KroneHit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
 #EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" group-title="Music",ATN Music (360p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXP4reG39bfBrOl13wJT9lOLoi-bwk6zYhzA&s" group-title="Music",BXTV
 https://rpn3.bozztv.com/dvrfl07/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Music",Impact TV
+#EXTINF:-1 group-title="Music" tvg-logo="",Impact TV
 https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:-1 group-title="Music",KISS TV
+#EXTINF:-1 group-title="Music" tvg-logo="",KISS TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
-#EXTINF:-1 group-title="Music",KroneHit TV
+#EXTINF:-1 group-title="Music" tvg-logo="",KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Music",LFM TV
+#EXTINF:-1 group-title="Music" tvg-logo="",LFM TV
 https://edge17.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1726418808_b800000.m3u8
-#EXTINF:-1 group-title="Music",Ocko
+#EXTINF:-1 group-title="Music" tvg-logo="",Ocko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Music",Ocko Expres
+#EXTINF:-1 group-title="Music" tvg-logo="",Ocko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Music",Ocko Star
+#EXTINF:-1 group-title="Music" tvg-logo="",Ocko Star
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="Music",Retro CZ
+#EXTINF:-1 group-title="Music" tvg-logo="",Retro CZ
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Music",Vevo Hip Hop & R&B
 https://d7i20u8nlyf1b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lymqk2na77cwn/VevoHipHopRB_GB.m3u8
-#EXTINF:-1 group-title="Music",VIVA Africa
+#EXTINF:-1 group-title="Music" tvg-logo="",VIVA Africa
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
 
@@ -341,31 +338,31 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 # =======================================================
 # CATEGORY: Sports
 # =======================================================
-#EXTINF:-1 group-title="Sports",A SPOR
+#EXTINF:-1 group-title="Sports" tvg-logo="",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:-1 group-title="Sports",A Sports HD
+#EXTINF:-1 group-title="Sports" tvg-logo="",A Sports HD
 https://playztv-apps.pages.dev/asports/index.m3u8
-#EXTINF:-1 group-title="Sports",Bein xtra
+#EXTINF:-1 group-title="Sports" tvg-logo="",Bein xtra
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlistR360p.m3u8
-#EXTINF:-1 group-title="Sports",CazeTV
+#EXTINF:-1 group-title="Sports" tvg-logo="",CazeTV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Sports",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 group-title="Sports",Mahsun CBC
+#EXTINF:-1 group-title="Sports" tvg-logo="",Mahsun CBC
 https://andro.evrenesoglu57.click/checklist/androstreamlivecbcs.m3u8
-#EXTINF:-1 group-title="Sports",Mahsun Sport
+#EXTINF:-1 group-title="Sports" tvg-logo="",Mahsun Sport
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="Sports",Mahsun Sport2
+#EXTINF:-1 group-title="Sports" tvg-logo="",Mahsun Sport2
 https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 group-title="Sports",Mahsun Tabi
+#EXTINF:-1 group-title="Sports" tvg-logo="",Mahsun Tabi
 https://andro.evrenesoglu57.click/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 group-title="Sports",Mahsun TRT1
+#EXTINF:-1 group-title="Sports" tvg-logo="",Mahsun TRT1
 https://andro.evrenesoglu57.click/checklist/androstreamlivetrt1.m3u8
-#EXTINF:-1 group-title="Sports",Mundial Sports HD
+#EXTINF:-1 group-title="Sports" tvg-logo="",Mundial Sports HD
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Sports",QAZ Sports HD
+#EXTINF:-1 group-title="Sports" tvg-logo="",QAZ Sports HD
 http://stream.mcquack.net/72/index.m3u8
-#EXTINF:-1 group-title="Sports",Redbull TV
+#EXTINF:-1 group-title="Sports" tvg-logo="",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/131.jpg" group-title="Sports",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
@@ -373,15 +370,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg" group-title="Sports",Star Sports 1 Hindi
 https://starsportshindiii.pages.dev/index.m3u8
-#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="",Star Sports Select 2 HD
 https://tvsen3.aynaott.com/Sports1/mono.m3u8
 #EXTINF:-1 tvg-id="TSports.bd@SD" tvg-logo="https://i.imgur.com/2JzlorD.png" group-title="Sports",T Sports (1080p)
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 group-title="Sports",T-Sports [2]
+#EXTINF:-1 group-title="Sports" tvg-logo="",T-Sports [2]
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Sports",Tsports (web)
+#EXTINF:-1 group-title="Sports" tvg-logo="",Tsports (web)
 https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow Extra HD
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 group-title="Sports",Willow HD
+#EXTINF:-1 group-title="Sports" tvg-logo="",Willow HD
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
