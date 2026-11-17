@@ -378,9 +378,9 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA8R0vb6FhfslzVfJ1AzI8rM/ts
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA63JFzQUwlnrxyfihMDSsOc/ts
 #EXTINF:-1 xui-id="97" tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="Documentary",TLC HD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3qai8EuqwqgplJgQg9chBI/ts
-#EXTINF:-1 xui-id="140" tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="Documentary",DISCOVERY SCIENCE
+#EXTINF:-1 xui-id="140" tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="Documentary",DISCOVERY SCIENCE
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAwa5nO0A8us1kcOGFdc-FVA/ts
-#EXTINF:-1 xui-id="141" tvg-id="" tvg-name="ID DISCOVERY" tvg-logo="" group-title="Documentary",ID DISCOVERY
+#EXTINF:-1 xui-id="141" tvg-id="" tvg-name="ID DISCOVERY" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",ID DISCOVERY
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_v2oCxO6G_W0UAcCfnti_c/ts
 
 
