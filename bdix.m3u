@@ -389,27 +389,25 @@ http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA_v2oCxO6G_W0UAcCfnti_c/ts
 
 //--- Movies ---//
 
+#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://172.19.17.28/images/star-movies-hd.jpg",STAR MOVIES HD
+http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
+
 #EXTINF:-1 xui-id="109" tvg-id="" tvg-name="SONY PIX HD" tvg-logo="" group-title="Movies",SONY PIX HD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAyGqj_F8238O0SvD3AOiOeQ/ts
-#EXTINF:-1 xui-id="111" tvg-id="" tvg-name="COLORS INFINITY HD" tvg-logo="" group-title="Movies",COLORS INFINITY HD
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA05pWvADgRJ6UpoRF3SxHDw/ts
 #EXTINF:-1 xui-id="112" tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="" group-title="Movies",STAR MOVIES HD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAyKKivPeD2xUy7tvwCoGaP0/ts
 #EXTINF:-1 xui-id="113" tvg-id="" tvg-name="STAR MOVIES SEL HD" tvg-logo="" group-title="Movies",STAR MOVIES SEL HD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsAx3TH4ez5a-OwCX4iDZ4O0E/ts
-#EXTINF:-1 xui-id="114" tvg-id="" tvg-name="MN+ HD" tvg-logo="" group-title="Movies",MN+ HD
+#EXTINF:-1 xui-id="114" tvg-id="" tvg-name="MN+ HD" tvg-logo="" group-title="Movies",MN PLUS HD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA3qqz9AcSsUTDR3R53-L5nQ/ts
-#EXTINF:-1 xui-id="115" tvg-id="" tvg-name="MOVIES NOW HD" tvg-logo="" group-title="Movies",MOVIES NOW HD
+#EXTINF:-1 xui-id="115" tvg-id="" tvg-name="MOVIES NOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/11/%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C_%E0%A6%A8%E0%A6%BE%E0%A6%89_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Movies",MOVIES NOW HD
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA2Ek9CK3BEzT7pXKvN5fzhk/ts
-#EXTINF:-1 xui-id="117" tvg-id="" tvg-name="& PRIVE HD" tvg-logo="" group-title="Movies",& PRIVE HD
-http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA7LxA0oBtXQTVDQcgyUT240/ts
-#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="ROMEDY NOW" tvg-logo="" group-title="Movies",ROMEDY NOW
+#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="ROMEDY NOW" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/7/79/Logo_Romedy_Now.jpg/250px-Logo_Romedy_Now.jpg" group-title="Movies",ROMEDY NOW
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA6x3lpKuwlLNoVqjWuv_bdg/ts
-#EXTINF:-1 xui-id="119" tvg-id="" tvg-name="MNX" tvg-logo="" group-title="Movies",MNX
+#EXTINF:-1 xui-id="119" tvg-id="" tvg-name="MNX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="Movies",MNX
 http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA4Z9UFmNUPiF7N5dN51hqBc/ts
-
-#EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://172.19.17.28/images/star-movies-hd.jpg",STAR MOVIES HD
-http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 xui-id="111" tvg-id="" tvg-name="COLORS INFINITY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png" group-title="Movies",COLORS INFINITY HD
+http://172.19.17.34:80/play/JmU-3pCgErAiWP5dU8MsA05pWvADgRJ6UpoRF3SxHDw/ts
 
 
 
