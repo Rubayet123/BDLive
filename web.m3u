@@ -118,6 +118,13 @@ https://tvsen6.aynaott.com/ytv/index.m3u8?e=1784102618&u=ee5437a7-c16b-4700-b317
 # CATEGORY: Hindi
 # =======================================================
 
+#EXTINF:-1 tvg-id="b80579f2-22d3-4b12-881e-60139810a791" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119" group-title="Hindi",Goldmines Bollywood
+https://tvsen6.aynaott.com/55xNrLdf/index.m3u8?e=1784102593&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=bdf9e0d52656d2f220337254a719a208
+#EXTINF:-1 tvg-id="4d5c3f29-c835-4920-8fa0-c0bafeaa31ed" tvg-name="Hindi Movie Classic 24" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Hindi",Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 tvg-name="Bhojpuri Cinema" group-title="Hindi",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
 #EXTINF:-1 group-title="Hindi" tvg-logo="",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="",BollyFlix IN
@@ -131,6 +138,24 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 # =======================================================
 # CATEGORY: inbangla
 # =======================================================
+
+#EXTINF:-1 tvg-id="f7ef6919-d8e1-42da-8f34-ddd3364c27c1" tvg-name="Assam Talks" tvg-logo="https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff" group-title="inbangla",Assam Talks
+https://tvsen7.aynaott.com/AssamTalks/index.m3u8?e=1784102635&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=c5ae931b66e2b3bb39f8dcc43ef2118d
+#EXTINF:-1 tvg-id="8df44874-5511-4c78-a854-8ab6dd6861e5" tvg-name="DD Bangla" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" group-title="inbangla",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+#EXTINF:-1 tvg-id="1092effd-ec5f-4842-a9eb-09db84a23415" tvg-name="Enter 10 Bangla" tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="inbangla",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="262789f8-92af-4738-986c-c5deafeef997" tvg-name="kolkata TV" tvg-logo="https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da" group-title="inbangla",kolkata TV
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1784102634&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7dd61eff112afc871fa5ff030faacde9
+#EXTINF:-1 tvg-id="8dc64f21-7dc8-4a41-a583-ddec9f112aeb" tvg-name="R Plus" tvg-logo="https://s3.aynaott.com/storage/9531f970bb7abf30ac2a48f40838c3a1" group-title="inbangla",R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1 tvg-id="791d2a93-1736-4114-852e-2331fa441799" tvg-name="Rongeen TV" tvg-logo="https://s3.aynaott.com/storage/296b530024a470f52313692636810e04" group-title="inbangla",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 tvg-name="Sananda TV" group-title="inbangla",Sananda TV
+http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="4b351549-878b-4f99-88ed-a50e7a4aa84b" tvg-name="TV9 Bangla" tvg-logo="https://s3.aynaott.com/storage/7b93f6be496c9fd25769b09970180c4c" group-title="inbangla",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
 #EXTINF:-1 group-title="inbangla",Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="inbangla",Enter 10 Bangla
@@ -232,6 +257,8 @@ https://tvsen6.aynaott.com/mtv/index.m3u8?e=1784102610&u=ee5437a7-c16b-4700-b317
 https://tvsen6.aynaott.com/pix11/index.m3u8?e=1784102618&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=a0dee7e79b0bdfa720434250b5fa6240
 #EXTINF:-1 tvg-id="f6f1a6ed-4629-4010-b50d-13fa4dd9a575" tvg-name="USA TV" tvg-logo="https://s3.aynaott.com/storage/376b8483457b06dbc5b7b7b327a21ac6" group-title="Entertainment",USA TV
 https://tvsen6.aynaott.com/usa/index.m3u8?e=1784102617&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3859c38f5a35c0c3d95b5244f5e393d4
+#EXTINF:-1 tvg-id="393d86c3-5518-4f70-94f1-af2f388d9181" tvg-name="LIFE TIME" tvg-logo="https://s3.aynaott.com/storage/90258e6758834a12979d27097bee04a7" group-title="Entertainment",LIFE TIME
+https://tvsen7.aynaott.com/lifetime/index.m3u8?e=1784102543&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=337f2f905c6a6c7884636d4b7919562d
 
 
 
@@ -311,7 +338,8 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="",YRF
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-
+#EXTINF:-1 tvg-name="TNT Music" group-title="Music",TNT Music
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="bdf309a5-d732-45d8-989a-5ad5defd0224" tvg-name="Power Turk" tvg-logo="https://s3.aynaott.com/storage/c4f27e64c99b50629e7021b99ac9387a" group-title="Music",Power Turk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="fc4dfffa-ceff-404f-bf3b-1de7c6771ae5" tvg-name="RDS Social TV" tvg-logo="https://s3.aynaott.com/storage/f1fbcbc6cd325f5324eabb3bc733584e" group-title="Music",RDS Social TV
@@ -366,6 +394,25 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 # =======================================================
 # CATEGORY: News
 # =======================================================
+
+#EXTINF:-1 tvg-id="2be13775-7176-4b90-98d7-04c90ffe3b5a" tvg-name="CNN" tvg-logo="https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546" group-title="News",CNN
+https://tvsen6.aynaott.com/cnn/index.m3u8?e=1784102537&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3d319d99045811bace569a7cc2885eb3
+#EXTINF:-1 tvg-id="50e2fe7f-fa1d-40ee-b37d-c19a992ed97c" tvg-name="ABC News" tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="News",ABC News
+https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1784102541&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=52b8ba78cc6aa66f187f91e92fe8f52c
+#EXTINF:-1 tvg-id="6be81470-eb86-4df1-9726-a95396a293d0" tvg-name="Fox business" tvg-logo="https://s3.aynaott.com/storage/20e4602dd584784607e5eff3963cdde6" group-title="News",Fox business
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8?e=1784102546&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=cac9ac4bc54a6e48978f2fae429de506
+#EXTINF:-1 tvg-id="369ffecf-00a9-49a9-864d-a8f45c7ef6db" tvg-name="NHK World" tvg-logo="https://s3.aynaott.com/storage/d969a37a7e1bbd49449ae092d34f0549" group-title="News",NHK World
+https://tvsen6.aynaott.com/xfJ3PuYS/index.m3u8?e=1784102545&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=dbc117649b51bf27bb2048647c01a038
+#EXTINF:-1 tvg-id="aab9a12d-b5a5-4028-8c92-94ea9d302f4e" tvg-name="Sky News" tvg-logo="https://s3.aynaott.com/storage/69d8281f965475f3293a3e30de8c0ccb" group-title="News",Sky News
+https://tvsen5.aynaott.com/skynews/index.m3u8?e=1784102543&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=adcd9273f21cb19a982ad314a5367a29
+#EXTINF:-1 tvg-id="3ef6eb8b-32f9-4775-85a6-2ccc4b15d658" tvg-name="TRT World" tvg-logo="https://s3.aynaott.com/storage/f63d4aad95532175f7f44be439f74111" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="b1a47b97-b4eb-4462-8faa-65f5207a3506" tvg-name="OAN " tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d" group-title="News",OAN
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="213a56e4-886c-44b1-8d72-2f8b9957376b" tvg-name="Weather SPY" tvg-logo="https://s3.aynaott.com/storage/b0bdea4df810e2d46f689cbb6c990c91" group-title="News",Weather SPY
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="GB2300005ML" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2300005ML_20251118T015422SQUARE.png" group-title="News",Al Jazeera
 https://jmp2.uk/stvp-GB2300005ML
 #EXTINF:-1 tvg-id="IT23000034W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT23000034W_20251118T015444SQUARE.png" group-title="News",Al Jazeera
@@ -421,12 +468,20 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="News",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-#EXTINF:-1 tvg-id="b1a47b97-b4eb-4462-8faa-65f5207a3506" tvg-name="OAN " tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d" group-title="News",OAN
-https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 
 # =======================================================
 # CATEGORY: Sports
 # =======================================================
+
+#EXTINF:-1 tvg-id="e9943a0d-a64f-4da6-9a12-023d604dc6b1" tvg-name="Unite8 Sports 2" tvg-logo="https://s3.aynaott.com/storage/bec77d9ab072a37a8912d9d4f9853298" group-title="Sports",Unite8 Sports 2
+https://tvsen7.aynaott.com/Sports1/index.m3u8?e=1784102646&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=6e80b0021171278f37f9970c64f7e10f
+#EXTINF:-1 tvg-id="e263cd7f-45e9-4bc6-a350-bf968eb51b14" tvg-name="Espn" tvg-logo="https://s3.aynaott.com/storage/b46df1959322aa48d270a6b163234c76" group-title="Sports",Espn
+https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102653&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=fbc560646ea38d9fce118fcd264926c5
+#EXTINF:-1 tvg-id="8cf7e03a-c0c4-4373-8b4f-d2f0c809472c" tvg-name="Goal TV" tvg-logo="https://s3.aynaott.com/storage/495e1816602db61aa4c2a348a257bd0a" group-title="Sports",Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 tvg-id="eacf6c3f-0773-4bc3-a03a-cfee09f10348" tvg-name="PTV Sports" tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Sports",PTV Sports
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102651&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=258517a6abcacd20116947f2c3132059
+
 #EXTINF:-1 group-title="Sports" tvg-logo="",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",A Sports HD
